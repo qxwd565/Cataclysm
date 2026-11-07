@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Talanji's Last Stand",
+  "card": {
+    "id": "CATA_471",
+    "dbfId": 122879,
+    "name": "탈란지의 최후의 저항",
+    "text": "내 하수인들에게 \"<b>죽음의 메아리:</b> 비용이 4인 무작위 하수인을 소환함\" 능력을 부여합니다.",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [],
+    "nativeSetId": 1980,
+    "set": "CATACLYSM",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS37-006_S.tif:9f762cdeeab14704b2c77f81a467adc8",
+    "flavor": "탈란지와 브원삼디의 관계는 쉽지도 않았고, 단순하지도 않았습니다. 하지만 잔달라를 이끌고 데스윙의 군세에 맞서 싸울 때가 왔을 때, 둘은 나란히 싸웠습니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 2
+      }
+    ],
+    "nativeRawText": "내 하수인들에게 \"<b>죽음의 메아리:</b> 비용이 4인 무작위 하수인을 소환함\" 능력을 부여합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1980,
+    "slug": "cataclysm",
+    "name": "대격변",
+    "type": "",
+    "englishName": "Cataclysm"
+  },
+  "setOrder": 2,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

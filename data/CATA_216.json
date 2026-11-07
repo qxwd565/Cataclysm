@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Cleansing Cleric",
+  "card": {
+    "id": "CATA_216",
+    "dbfId": 123426,
+    "name": "정화하는 성직자",
+    "text": "<b>전투의 함성:</b> 생명력을 회복시키는 내 카드와 능력들이 이번 게임 동안 생명력을 2 더 회복시킵니다.",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1980,
+    "set": "CATACLYSM",
+    "rarity": "EPIC",
+    "race": "드레나이",
+    "races": [
+      "DRAENEI"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 4,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS37-054_M.tif:7bfc2f5da1f04f70a30a3d05fe3662b9",
+    "flavor": "아아, 그래요. \"치유\" 효과요. 그럼요.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 생명력을 회복시키는 내 카드와 능력들이 이번 게임 동안 생명력을 2 더 회복시킵니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1980,
+    "slug": "cataclysm",
+    "name": "대격변",
+    "type": "",
+    "englishName": "Cataclysm"
+  },
+  "setOrder": 2,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Incensed Matriarch",
+  "card": {
+    "id": "CATA_305",
+    "dbfId": 122878,
+    "name": "격분한 여군주",
+    "text": "내 턴이 끝날 때, 이 하수인의 생명력이 최대면, 생명력을 +3 얻습니다.",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1980,
+    "set": "CATACLYSM",
+    "rarity": "COMMON",
+    "race": "용족",
+    "races": [
+      "DRAGON"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS37-162_M.tif:e481866ef26a4d019f9a5698421dc28a",
+    "flavor": "냄새 죽이네요!",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4548,
+        "name": "게임 태그 4548",
+        "value": 1
+      },
+      {
+        "id": 4577,
+        "name": "게임 태그 4577",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 턴이 끝날 때, 이 하수인의 생명력이 최대면,& 생명력을 +3 얻습니다.",
+    "nativeTextBuilder": 7
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1980,
+    "slug": "cataclysm",
+    "name": "대격변",
+    "type": "",
+    "englishName": "Cataclysm"
+  },
+  "setOrder": 2,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

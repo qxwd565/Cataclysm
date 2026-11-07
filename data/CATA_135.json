@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Mossbinding",
+  "card": {
+    "id": "CATA_135",
+    "dbfId": 123023,
+    "name": "이끼 구속",
+    "text": "1/2 골렘을 둘 소환합니다.\n 마나를 모두 소모하여\n소모한 만큼 그 골렘들에게\n+1/+1을 부여합니다. ",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1980,
+    "set": "CATACLYSM",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "NATURE",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS37-020_S.tif:7406a990a472409cb9a66d6f71bed486",
+    "flavor": "이끼에 당했습니다!",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "nativeRawText": "[x]1/2 골렘을 둘 소환합니다.\n 마나를 모두 소모하여\n소모한 만큼 그 골렘들에게\n+1/+1을 부여합니다. ",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    122974
+  ],
+  "expansion": {
+    "id": 1980,
+    "slug": "cataclysm",
+    "name": "대격변",
+    "type": "",
+    "englishName": "Cataclysm"
+  },
+  "setOrder": 2,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

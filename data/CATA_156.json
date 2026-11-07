@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Experimental Animation",
+  "card": {
+    "id": "CATA_156",
+    "dbfId": 123546,
+    "name": "실험적인 되살리기",
+    "text": "오닉시아를 <b>예고</b>합니다. 모든 적 하수인에게 피해를 $4 줍니다.",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [],
+    "nativeSetId": 1980,
+    "set": "CATACLYSM",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "SHADOW",
+    "cost": 6,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS37-005_S.tif:5a3508e6f95f4270b145696d508f1448",
+    "flavor": "초당 프레임 수를 23으로 해서 <i>진짜</i> 이상해 보이게 하면 어떨까요?",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2196,
+        "name": "혈기 룬",
+        "value": 2
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4309,
+        "name": "예고",
+        "value": 1
+      },
+      {
+        "id": 4538,
+        "name": "게임 태그 4538",
+        "value": 1
+      },
+      {
+        "id": 4632,
+        "name": "게임 태그 4632",
+        "value": 2
+      }
+    ],
+    "nativeRawText": "{0}|1(을,를) <b>예고</b>합니다. 모든 적 하수인에게 피해를 $4 줍니다.",
+    "nativeTextBuilder": 43
+  },
+  "root": true,
+  "relatedIds": [
+    126983,
+    124138,
+    124139,
+    125416
+  ],
+  "expansion": {
+    "id": 1980,
+    "slug": "cataclysm",
+    "name": "대격변",
+    "type": "",
+    "englishName": "Cataclysm"
+  },
+  "setOrder": 2,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Spearheart Sentry",
+  "card": {
+    "id": "CATA_474",
+    "dbfId": 123112,
+    "name": "창심장 파수병",
+    "text": "내 턴이 끝날 때, 무작위 신성 주문을 얻습니다. 그 주문의 비용이 (3) 감소합니다.",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1980,
+    "set": "CATACLYSM",
+    "rarity": "RARE",
+    "race": "용족",
+    "races": [
+      "DRAGON"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS37-152_M.tif:39badb93412c407c9c236788274fac13",
+    "flavor": "\"이제 살 것 같아. 창을 빼냈거든.\"",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4577,
+        "name": "게임 태그 4577",
+        "value": 1
+      },
+      {
+        "id": 4931,
+        "name": "게임 태그 4931",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 턴이 끝날 때,& 무작위 신성 주문을 얻습니다. 그 주문의 비용이 (3) 감소합니다.",
+    "nativeTextBuilder": 7
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1980,
+    "slug": "cataclysm",
+    "name": "대격변",
+    "type": "",
+    "englishName": "Cataclysm"
+  },
+  "setOrder": 2,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
