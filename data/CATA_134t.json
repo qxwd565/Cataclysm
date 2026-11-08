@@ -74,7 +74,15 @@
       }
     ],
     "nativeRawText": "<b>조각</b>, 2/2 나무정령을 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2026-04-03",
+        "changes": {
+          "cost": 3
+        }
+      }
+    ]
   },
   "root": false,
   "relatedIds": [],

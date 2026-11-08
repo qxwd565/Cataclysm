@@ -59,7 +59,29 @@
       }
     ],
     "nativeRawText": "이번 게임에서 내가 낸 비용이 1인 하수인들을 각각 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2026-06-12",
+        "changes": {
+          "cost": 3
+        }
+      },
+      {
+        "from": "2026-06-12",
+        "before": "2026-07-22",
+        "changes": {
+          "cost": 4
+        }
+      },
+      {
+        "from": "2026-07-22",
+        "before": "2026-08-19",
+        "changes": {
+          "cost": 5
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

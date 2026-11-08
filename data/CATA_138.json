@@ -59,7 +59,15 @@
       }
     ],
     "nativeRawText": "[x]아군 하수인에게 내 전장에\n있는 하수인의 수만큼\n+1/+1을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2026-05-20",
+        "changes": {
+          "cost": 2
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

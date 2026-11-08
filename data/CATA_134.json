@@ -89,7 +89,15 @@
       }
     ],
     "nativeRawText": "[x]<b>산산조각</b>\n2/2 나무정령을 둘 소환합니다.\n내 하수인들에게\n\"<b>죽음의 메아리:</b> 2/2 나무정령\n소환\"을 부여합니다.@[x]2/2 나무정령을 둘 소환합니다.\n내 하수인들에게\n\"<b>죽음의 메아리:</b> 2/2 나무정령\n소환\"을 부여합니다.",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "history": [
+      {
+        "before": "2026-04-03",
+        "changes": {
+          "cost": 3
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [
