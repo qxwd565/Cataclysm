@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2026-03-18",
+    "status": "verified"
+  },
+  "prefixes": {
+    "CATA_": {
+      "date": "2026-03-18",
+      "status": "verified"
+    },
+    "MEND_": {
+      "date": "2026-05-06",
+      "status": "verified"
+    }
+  },
+  "cards": {},
+  "sources": {
+    "main": "https://hearthstone.blizzard.com/ko-kr/expansions-adventures/cataclysm",
+    "class": "https://hearthstone.blizzard.com/ko-kr/news/24267730/non-printable"
+  }
+}
