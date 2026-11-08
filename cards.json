@@ -22,7 +22,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -78,7 +78,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_130",
@@ -100,7 +102,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -166,7 +168,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_131",
@@ -240,7 +244,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_132",
@@ -262,7 +270,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -327,7 +335,9 @@
       ],
       "relatedDbfIds": [
         122969
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_132t",
@@ -335,7 +345,7 @@
       "name": "에메랄드 새끼용",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>도발</b>",
@@ -348,7 +358,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -394,7 +404,10 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_133",
@@ -416,7 +429,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -482,7 +495,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_134",
@@ -573,14 +588,9 @@
         122973,
         126886
       ],
-      "history": [
-        {
-          "before": "2026-04-03",
-          "changes": {
-            "cost": 3
-          }
-        }
-      ]
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_134t",
@@ -588,7 +598,7 @@
       "name": "원시림의 소환진",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>, 2/2 나무정령을 둘 소환합니다.",
@@ -647,14 +657,10 @@
           "value": 1
         }
       ],
-      "history": [
-        {
-          "before": "2026-04-03",
-          "changes": {
-            "cost": 3
-          }
-        }
-      ]
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_134t2",
@@ -662,7 +668,7 @@
       "name": "원시림의 소환진",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>, 내 하수인들에게 \"<b>죽음의 메아리:</b> 2/2 나무정령을 소환함\" 능력을 부여합니다.",
@@ -714,14 +720,10 @@
       "mechanics": [
         "DEATHRATTLE"
       ],
-      "history": [
-        {
-          "before": "2026-04-03",
-          "changes": {
-            "cost": 3
-          }
-        }
-      ]
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_134t3",
@@ -729,7 +731,7 @@
       "name": "나무정령",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -771,7 +773,12 @@
           "name": "게임 태그 2831",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_135",
@@ -826,7 +833,10 @@
       ],
       "relatedDbfIds": [
         122974
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_135t",
@@ -834,7 +844,7 @@
       "name": "이끼 골렘",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -871,7 +881,12 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_136",
@@ -928,7 +943,10 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_138",
@@ -981,14 +999,9 @@
           "value": 4
         }
       ],
-      "history": [
-        {
-          "before": "2026-05-20",
-          "changes": {
-            "cost": 2
-          }
-        }
-      ]
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_139",
@@ -1083,7 +1096,11 @@
         128060,
         128061,
         128062
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_139t",
@@ -1091,7 +1108,7 @@
       "name": "버들송곳니의 다리",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "내 턴이 끝날 때 +1/+1을 얻습니다.",
@@ -1146,7 +1163,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_139t2",
@@ -1154,7 +1176,7 @@
       "name": "버들송곳니의 다리",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "내 턴이 끝날 때 +1/+1을 얻습니다.",
@@ -1209,7 +1231,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_139t3",
@@ -1217,7 +1244,7 @@
       "name": "버들송곳니의 다리",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "내 턴이 끝날 때 +1/+1을 얻습니다.",
@@ -1272,7 +1299,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_139t4",
@@ -1280,7 +1312,7 @@
       "name": "버들송곳니의 다리",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "내 턴이 끝날 때 +1/+1을 얻습니다.",
@@ -1335,7 +1367,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_140",
@@ -1357,7 +1394,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -1423,7 +1460,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_150",
@@ -1445,7 +1484,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -1556,7 +1595,9 @@
       "relatedDbfIds": [
         124113,
         125412
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_150t",
@@ -1564,7 +1605,7 @@
       "name": "라그나로스의 손길",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b>\n무작위 적에게 피해를\n2 줍니다. <i>2회 <b>예고</b> 시\n강화됩니다.</i>",
@@ -1577,7 +1618,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -1648,7 +1689,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_150t1",
@@ -1656,7 +1700,7 @@
       "name": "라그나로스의 손길",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b>\n무작위 적에게 피해를\n2 줍니다. <i>2회 <b>예고</b> 시\n강화됩니다.</i>",
@@ -1669,7 +1713,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -1735,7 +1779,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_151",
@@ -1757,7 +1804,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -1872,7 +1919,9 @@
       "relatedDbfIds": [
         124108,
         125413
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_151t",
@@ -1880,7 +1929,7 @@
       "name": "아즈샤라의 촉수",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "소환 시 이번 턴에 내 영웅에게 공격력을 +1 부여합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -1893,7 +1942,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -1951,7 +2000,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_151t1",
@@ -1959,7 +2011,7 @@
       "name": "아즈샤라의 촉수",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "소환 시 이번 턴에 내 영웅에게 공격력을 +1 부여합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -1972,7 +2024,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2030,7 +2082,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_153",
@@ -2052,7 +2107,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2164,7 +2219,9 @@
       "relatedDbfIds": [
         125443,
         127053
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_153t",
@@ -2172,7 +2229,7 @@
       "name": "알아키르의 충전된 손",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "양옆의 하수인들이 공격력을 +1 얻습니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -2185,7 +2242,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2248,7 +2305,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_153t1",
@@ -2256,7 +2316,7 @@
       "name": "알아키르의 충전된 손",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "양옆의 하수인들이 공격력을 +1 얻습니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -2269,7 +2329,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2332,7 +2392,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_154",
@@ -2354,7 +2417,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2456,7 +2519,9 @@
       "relatedDbfIds": [
         125451,
         125503
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_154t",
@@ -2464,7 +2529,7 @@
       "name": "시네스트라의 날개",
       "type": "MINION",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "소환 시 다른 직업의 무작위 주문을 얻습니다. 그 주문의 비용이 (1) 감소합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -2477,7 +2542,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2535,7 +2600,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_154t1",
@@ -2543,7 +2611,7 @@
       "name": "시네스트라의 날개",
       "type": "MINION",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "소환 시 다른 직업의 무작위 주문을 얻습니다. 그 주문의 비용이 (1) 감소합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -2556,7 +2624,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2614,7 +2682,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_155",
@@ -2637,7 +2708,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2752,7 +2823,9 @@
       "relatedDbfIds": [
         124139,
         125416
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_155t",
@@ -2760,7 +2833,7 @@
       "name": "오닉시아의 날개",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "소환 시 비용이 2인\n무작위 하수인을 얻습니다.\n그 하수인이 이번 턴에 생명력을\n비용으로 사용합니다.\n<i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -2774,7 +2847,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2837,7 +2910,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_155t1",
@@ -2845,7 +2921,7 @@
       "name": "오닉시아의 날개",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "소환 시 비용이 2인\n무작위 하수인을 얻습니다.\n그 하수인이 이번 턴에 생명력을\n비용으로 사용합니다.\n<i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -2859,7 +2935,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -2922,7 +2998,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_156",
@@ -3010,7 +3089,10 @@
         124138,
         124139,
         125416
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_158",
@@ -3111,7 +3193,11 @@
         125450,
         125451,
         125503
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_158t",
@@ -3119,7 +3205,7 @@
       "name": "시네스트라의 병사",
       "type": "MINION",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "소환 시 다른 직업의 무작위 주문을 얻습니다. 그 주문의 비용이 (1) 감소합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -3132,7 +3218,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -3180,7 +3266,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_160",
@@ -3202,7 +3291,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -3290,7 +3379,9 @@
         124110,
         124113,
         125412
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_161",
@@ -3312,7 +3403,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -3368,7 +3459,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_180",
@@ -3390,7 +3483,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "MURLOC",
+      "race": "멀록",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -3441,7 +3534,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_185",
@@ -3520,7 +3615,11 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_186",
@@ -3587,7 +3686,11 @@
       ],
       "relatedDbfIds": [
         123782
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_186t",
@@ -3595,7 +3698,7 @@
       "name": "파괴 공작!",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "손에서 양옆에 있는 카드의 비용이 (1) 증가합니다.",
@@ -3627,7 +3730,12 @@
           "name": "특수 발광 효과",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_190h",
@@ -3767,7 +3875,10 @@
         127700,
         127701,
         127703
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": ""
     },
     {
       "id": "CATA_190p",
@@ -3775,7 +3886,7 @@
       "name": "무자비",
       "type": "HERO_POWER",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "이번 턴에 공격력 +5",
@@ -3802,7 +3913,12 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_190t10",
@@ -3810,7 +3926,7 @@
       "name": "용의 군림",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "12/12 용족을 소환합니다.",
@@ -3837,7 +3953,12 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_190t11",
@@ -3845,7 +3966,7 @@
       "name": "타도",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "생명력이 가장 높은 적 하수인을 처치합니다.",
@@ -3872,7 +3993,12 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_190t12",
@@ -3880,7 +4006,7 @@
       "name": "초토화",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "모든 적 하수인에게\n피해를 4 줍니다.",
@@ -3912,7 +4038,12 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_190t13",
@@ -3920,7 +4051,7 @@
       "name": "속박",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "무작위 <b>전설</b> 용족 다섯을 내 덱에 섞어 넣습니다. 그 용족들의 비용이 (1)이 됩니다.",
@@ -3947,7 +4078,12 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_190t14",
@@ -3955,7 +4091,7 @@
       "name": "데스윙의 자손",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 10,
       "text": "",
@@ -3968,7 +4104,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -4001,7 +4137,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_200",
@@ -4023,7 +4162,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -4084,7 +4223,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_201",
@@ -4106,7 +4247,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -4157,7 +4298,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_202",
@@ -4214,7 +4357,10 @@
           "name": "산산조각",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_203",
@@ -4273,7 +4419,11 @@
       ],
       "mechanics": [
         "TRADEABLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_206",
@@ -4295,7 +4445,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -4371,7 +4521,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_208",
@@ -4435,7 +4587,11 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_209",
@@ -4510,7 +4666,11 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_210",
@@ -4588,7 +4748,11 @@
       ],
       "relatedDbfIds": [
         123127
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_210t",
@@ -4596,7 +4760,7 @@
       "name": "가속된 새끼용",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "",
@@ -4609,7 +4773,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -4647,7 +4811,10 @@
           "name": "새끼용",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_213",
@@ -4669,7 +4836,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -4745,7 +4912,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_215",
@@ -4797,7 +4966,10 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_216",
@@ -4819,7 +4991,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "DRAENEI",
+      "race": "드레나이",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -4875,7 +5047,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_300",
@@ -4989,7 +5163,11 @@
         122756,
         128030,
         128031
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_300t1",
@@ -4997,7 +5175,7 @@
       "name": "검은 피의 몸뚱이",
       "type": "MINION",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "내 턴이 끝날 때, 피해를 받은 무작위 아군 캐릭터의 생명력을 #3 회복시킵니다.",
@@ -5057,7 +5235,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_300t2",
@@ -5065,7 +5248,7 @@
       "name": "검은 피의 몸뚱이",
       "type": "MINION",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "내 턴이 끝날 때, 피해를 받은 무작위 아군 캐릭터의 생명력을 #3 회복시킵니다.",
@@ -5125,7 +5308,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_300t3",
@@ -5133,7 +5321,7 @@
       "name": "검은 피의 몸뚱이",
       "type": "MINION",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "내 턴이 끝날 때, 피해를 받은 무작위 아군 캐릭터의 생명력을 #3 회복시킵니다.",
@@ -5193,7 +5381,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_301",
@@ -5249,7 +5442,11 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_302",
@@ -5306,7 +5503,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_303",
@@ -5358,7 +5558,10 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_304",
@@ -5380,7 +5583,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -5452,7 +5655,9 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_305",
@@ -5474,7 +5679,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -5540,7 +5745,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_306",
@@ -5626,7 +5833,10 @@
       "relatedDbfIds": [
         122876,
         122877
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_306t1",
@@ -5634,7 +5844,7 @@
       "name": "분파",
       "type": "SPELL",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>, 아군 하수인에게 +2/+3과 <b>모면</b>을 부여합니다.",
@@ -5701,7 +5911,11 @@
       "relatedDbfIds": [
         122876,
         122877
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_306t2",
@@ -5709,7 +5923,7 @@
       "name": "분파",
       "type": "SPELL",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>, 아군 하수인을 복사하여 소환합니다.",
@@ -5752,7 +5966,11 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_307",
@@ -5774,7 +5992,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -5850,7 +6068,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_308",
@@ -5907,7 +6127,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_432",
@@ -5929,7 +6152,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -6028,7 +6251,9 @@
         122405,
         122407,
         122410
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_432t1",
@@ -6036,7 +6261,7 @@
       "name": "크로마투스의 녹색 머리",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>도발</b>, <b>죽음의 메아리:</b>\n크로마투스의 <b>도발</b>\n능력을 제거합니다.",
@@ -6049,7 +6274,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -6111,7 +6336,10 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_432t2",
@@ -6119,7 +6347,7 @@
       "name": "크로마투스의 붉은 머리",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>생명력 흡수</b>, <b>죽음의 메아리:</b> 크로마투스의 <b>생명력 흡수</b> 능력을 제거합니다.",
@@ -6132,7 +6360,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -6194,7 +6422,10 @@
       "mechanics": [
         "DEATHRATTLE",
         "LIFESTEAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_432t3",
@@ -6202,7 +6433,7 @@
       "name": "크로마투스의 푸른 머리",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>모면</b>, <b>죽음의 메아리:</b>\n크로마투스의 <b>모면</b>\n능력을 제거합니다.",
@@ -6215,7 +6446,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -6276,7 +6507,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_432t4",
@@ -6284,7 +6518,7 @@
       "name": "크로마투스의 청동 머리",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>천상의 보호막</b>, <b>죽음의 메아리:</b> 크로마투스의 <b>천상의 보호막</b> 능력을 제거합니다.",
@@ -6297,7 +6531,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -6359,7 +6593,10 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_452",
@@ -6419,7 +6656,10 @@
       ],
       "relatedDbfIds": [
         122455
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_452t",
@@ -6427,7 +6667,7 @@
       "name": "하늘빛 감시관",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "",
@@ -6440,7 +6680,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -6473,7 +6713,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_458",
@@ -6558,7 +6801,11 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_464",
@@ -6581,7 +6828,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -6665,7 +6912,9 @@
       ],
       "relatedDbfIds": [
         122754
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_464t",
@@ -6673,7 +6922,7 @@
       "name": "용의 숨결",
       "type": "SPELL",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "피해를 $1 줍니다.",
@@ -6711,7 +6960,11 @@
           "name": "주문 속성",
           "value": 3
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_465",
@@ -6788,7 +7041,11 @@
       ],
       "relatedDbfIds": [
         125516
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_465t",
@@ -6796,7 +7053,7 @@
       "name": "굶주린 비룡",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "",
@@ -6810,7 +7067,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -6848,7 +7105,10 @@
           "name": "게임 태그 2534",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_467",
@@ -6922,7 +7182,11 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_469",
@@ -6945,7 +7209,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -7037,7 +7301,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_470",
@@ -7059,7 +7325,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -7133,7 +7399,9 @@
       ],
       "relatedDbfIds": [
         127644
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_470t1",
@@ -7141,7 +7409,7 @@
       "name": "네파리안의 피조물",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -7155,7 +7423,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -7193,7 +7461,10 @@
           "name": "게임 태그 2534",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_471",
@@ -7252,7 +7523,11 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_472",
@@ -7316,7 +7591,11 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_473",
@@ -7396,7 +7675,11 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DIVINE_SHIELD"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_474",
@@ -7418,7 +7701,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -7484,7 +7767,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_475",
@@ -7563,7 +7848,11 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_476",
@@ -7585,7 +7874,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -7660,7 +7949,9 @@
       ],
       "relatedDbfIds": [
         123116
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_476t",
@@ -7668,7 +7959,7 @@
       "name": "모래비늘 용",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "<b>천상의 보호막</b>",
@@ -7682,7 +7973,7 @@
         "ELEMENTAL",
         "DRAGON"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -7728,7 +8019,10 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_477",
@@ -7784,7 +8078,11 @@
           "name": "손의 카드 대상 지정",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_478",
@@ -7871,7 +8169,11 @@
       ],
       "relatedDbfIds": [
         126052
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_478t",
@@ -7879,7 +8181,7 @@
       "name": "청동 투사",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -7892,7 +8194,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -7925,7 +8227,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_479",
@@ -8015,7 +8320,10 @@
         123141,
         123142,
         123140
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_479t",
@@ -8023,7 +8331,7 @@
       "name": "비행 기동",
       "type": "SPELL",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>, 4/2 비룡을\n둘 소환합니다.",
@@ -8081,7 +8389,11 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_479t2",
@@ -8089,7 +8401,7 @@
       "name": "비행 기동",
       "type": "SPELL",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>, 내 하수인들에게\n공격력 +1과 <b>천상의 보호막</b>을\n부여합니다.",
@@ -8140,7 +8452,11 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_479t3",
@@ -8148,7 +8464,7 @@
       "name": "하늘 비룡",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "",
@@ -8161,7 +8477,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -8194,7 +8510,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_480",
@@ -8276,7 +8595,10 @@
           "name": "성기사 오라",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_481",
@@ -8362,7 +8684,11 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "DORMANT"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_483",
@@ -8384,7 +8710,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -8456,7 +8782,9 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_484",
@@ -8478,7 +8806,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -8555,7 +8883,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_485",
@@ -8612,7 +8942,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_487",
@@ -8634,7 +8967,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -8705,7 +9038,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_488",
@@ -8727,7 +9062,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -8832,7 +9167,9 @@
       "relatedDbfIds": [
         123666,
         128032
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_488t",
@@ -8840,7 +9177,7 @@
       "name": "불카노스의 융기",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "이 하수인이 피해를 받을 때마다 무작위 화염 주문을 얻습니다. 그 주문의 비용이 (3) 감소합니다.",
@@ -8853,7 +9190,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -8909,7 +9246,10 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_488t2",
@@ -8917,7 +9257,7 @@
       "name": "불카노스의 융기",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "이 하수인이 피해를 받을 때마다 무작위 화염 주문을 얻습니다. 그 주문의 비용이 (3) 감소합니다.",
@@ -8930,7 +9270,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -8986,7 +9326,10 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_489",
@@ -9067,7 +9410,10 @@
       "relatedDbfIds": [
         123743,
         123744
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_489t",
@@ -9075,7 +9421,7 @@
       "name": "비전의 흐름",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>\n피해를 $4 줍니다.",
@@ -9133,7 +9479,11 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_489t2",
@@ -9141,7 +9491,7 @@
       "name": "비전의 흐름",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>\n모든 적에게 피해를\n$2 줍니다.",
@@ -9184,7 +9534,11 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_490",
@@ -9206,7 +9560,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -9268,7 +9622,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_491",
@@ -9325,7 +9681,10 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_492",
@@ -9402,7 +9761,11 @@
         125432,
         125433,
         125435
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_493",
@@ -9466,7 +9829,11 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_494",
@@ -9488,7 +9855,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -9549,7 +9916,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_496",
@@ -9611,7 +9980,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_497",
@@ -9641,7 +10013,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -9755,7 +10127,8 @@
         125435,
         124113,
         125412
-      ]
+      ],
+      "spellSchool": ""
     },
     {
       "id": "CATA_498",
@@ -9806,7 +10179,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_499",
@@ -9863,7 +10240,10 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_525",
@@ -9885,7 +10265,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -9973,7 +10353,9 @@
         124116,
         124108,
         125413
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_525t",
@@ -9981,7 +10363,7 @@
       "name": "아즈샤라의 병사",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "소환 시 이번 턴에 내 영웅에게 공격력을 +1 부여합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -9994,7 +10376,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -10042,7 +10424,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_526",
@@ -10088,7 +10473,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_527",
@@ -10165,7 +10554,11 @@
       ],
       "relatedDbfIds": [
         122845
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_527t2",
@@ -10173,7 +10566,7 @@
       "name": "속박 풀린 네스피라",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "내가 지옥 주문을 시전한 후에, <b>거수</b>가 아닌 무작위 나가를 얻습니다. 그 나가의 비용이 (1)이 됩니다.",
@@ -10186,7 +10579,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -10232,7 +10625,10 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_528",
@@ -10310,7 +10706,10 @@
       ],
       "relatedDbfIds": [
         127933
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_528t",
@@ -10318,7 +10717,7 @@
       "name": "나가 흉물",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>도발</b>",
@@ -10331,7 +10730,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -10372,7 +10771,10 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_529",
@@ -10394,7 +10796,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -10437,7 +10839,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_530",
@@ -10543,7 +10947,10 @@
         124116,
         124108,
         125413
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_533",
@@ -10603,7 +11010,10 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_550",
@@ -10626,7 +11036,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -10725,7 +11135,9 @@
         127991,
         127992,
         127993
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_550t",
@@ -10733,7 +11145,7 @@
       "name": "용암아귀의 몸뚱이",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b>\n무작위 아군 하수인에게 공격력을 +2 부여합니다.",
@@ -10747,7 +11159,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -10808,7 +11220,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_550t2",
@@ -10816,7 +11231,7 @@
       "name": "용암아귀의 몸뚱이",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b>\n무작위 아군 하수인에게 공격력을 +2 부여합니다.",
@@ -10830,7 +11245,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -10891,7 +11306,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_550t3",
@@ -10899,7 +11317,7 @@
       "name": "용암아귀의 몸뚱이",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b>\n무작위 아군 하수인에게 공격력을 +2 부여합니다.",
@@ -10913,7 +11331,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -10974,7 +11392,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_550t4",
@@ -10982,7 +11403,7 @@
       "name": "용암아귀의 몸뚱이",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b>\n무작위 아군 하수인에게 공격력을 +2 부여합니다.",
@@ -10996,7 +11417,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -11057,7 +11478,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_550t5",
@@ -11065,7 +11489,7 @@
       "name": "용암아귀의 몸뚱이",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b>\n무작위 아군 하수인에게 공격력을 +2 부여합니다.",
@@ -11079,7 +11503,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -11140,7 +11564,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_550t6",
@@ -11148,7 +11575,7 @@
       "name": "용암아귀의 몸뚱이",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b>\n무작위 아군 하수인에게 공격력을 +2 부여합니다.",
@@ -11162,7 +11589,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -11223,7 +11650,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_551",
@@ -11300,7 +11730,11 @@
       ],
       "relatedDbfIds": [
         122868
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_551t",
@@ -11321,7 +11755,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -11367,7 +11801,10 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_552",
@@ -11449,7 +11886,11 @@
       ],
       "relatedDbfIds": [
         122870
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_552t",
@@ -11470,7 +11911,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -11516,7 +11957,10 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_553",
@@ -11609,7 +12053,11 @@
       ],
       "relatedDbfIds": [
         122872
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_553t",
@@ -11630,7 +12078,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -11692,7 +12140,10 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_554",
@@ -11738,7 +12189,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_556",
@@ -11760,7 +12215,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -11826,7 +12281,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_557",
@@ -11877,7 +12334,11 @@
           "name": "게임 태그 2433",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_558",
@@ -11938,7 +12399,11 @@
           "name": "모면",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_560",
@@ -11990,28 +12455,10 @@
           "value": 1
         }
       ],
-      "history": [
-        {
-          "before": "2026-06-12",
-          "changes": {
-            "cost": 3
-          }
-        },
-        {
-          "from": "2026-06-12",
-          "before": "2026-07-22",
-          "changes": {
-            "cost": 4
-          }
-        },
-        {
-          "from": "2026-07-22",
-          "before": "2026-08-19",
-          "changes": {
-            "cost": 5
-          }
-        }
-      ]
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_561",
@@ -12108,7 +12555,10 @@
         127584,
         125443,
         127053
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_561t",
@@ -12116,7 +12566,7 @@
       "name": "꼬마 산들바람",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>속공</b>",
@@ -12129,7 +12579,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -12170,7 +12620,10 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_563",
@@ -12192,7 +12645,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -12259,7 +12712,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_564",
@@ -12333,7 +12788,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_565",
@@ -12355,7 +12814,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -12438,7 +12897,9 @@
         125442,
         125443,
         127053
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_565t",
@@ -12446,7 +12907,7 @@
       "name": "알아키르의 병사",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "양옆의 하수인들이 공격력을 +1 얻습니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -12459,7 +12920,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -12512,7 +12973,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_566",
@@ -12581,7 +13045,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_567",
@@ -12633,7 +13101,10 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_568",
@@ -12690,7 +13161,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_569",
@@ -12754,7 +13228,11 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_570",
@@ -12776,7 +13254,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -12837,7 +13315,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_580",
@@ -12932,7 +13412,11 @@
         124110,
         124113,
         125412
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_580t",
@@ -12940,7 +13424,7 @@
       "name": "라그나로스의 병사",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>죽음의 메아리:</b>\n무작위 적에게 피해를\n2 줍니다. <i>2회 <b>예고</b> 시\n강화됩니다.</i>",
@@ -12953,7 +13437,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -13009,7 +13493,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_581",
@@ -13071,7 +13558,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_582",
@@ -13128,7 +13618,10 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_584",
@@ -13179,7 +13672,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_585",
@@ -13241,7 +13738,10 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_586",
@@ -13263,7 +13763,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -13320,7 +13820,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_591",
@@ -13342,7 +13844,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -13409,7 +13911,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_610",
@@ -13468,7 +13972,11 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_612",
@@ -13490,7 +13998,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -13552,7 +14060,9 @@
       "mechanics": [
         "FREEZE",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_613",
@@ -13621,7 +14131,11 @@
       ],
       "mechanics": [
         "IMMUNE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_614",
@@ -13643,7 +14157,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -13710,7 +14224,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_615",
@@ -13789,7 +14305,11 @@
       ],
       "relatedDbfIds": [
         123397
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_615t",
@@ -13857,7 +14377,12 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_616",
@@ -13918,7 +14443,11 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_621",
@@ -13964,7 +14493,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_697",
@@ -13986,7 +14519,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -14042,7 +14575,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_699",
@@ -14064,7 +14599,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -14121,7 +14656,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_720",
@@ -14195,7 +14732,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_721",
@@ -14269,7 +14810,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_722",
@@ -14398,7 +14943,10 @@
         125435,
         124113,
         125412
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": ""
     },
     {
       "id": "CATA_723",
@@ -14420,7 +14968,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -14481,7 +15029,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_724",
@@ -14551,7 +15101,11 @@
       "mechanics": [
         "OVERLOAD",
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_725",
@@ -14652,7 +15206,11 @@
         125432,
         125433,
         125435
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_725t",
@@ -14660,7 +15218,7 @@
       "name": "초갈의 병사",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "내 턴이 끝날 때,\n오른쪽에 있는 하수인을\n처치하고 +2/+2를 얻습니다.\n<i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -14720,7 +15278,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_726",
@@ -14830,7 +15393,11 @@
       "relatedDbfIds": [
         125433,
         125435
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_726t",
@@ -14838,7 +15405,7 @@
       "name": "초의 팔",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "내 턴이 끝날 때,\n오른쪽에 있는 하수인을\n처치하고 +2/+2를 얻습니다.\n<i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -14908,7 +15475,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_726t1",
@@ -14916,7 +15488,7 @@
       "name": "갈의 팔",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "내 턴이 끝날 때,\n오른쪽에 있는 하수인을\n처치하고 +2/+2를 얻습니다.\n<i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -14986,7 +15558,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_780",
@@ -15092,7 +15669,11 @@
         124138,
         124139,
         125416
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_780t",
@@ -15100,7 +15681,7 @@
       "name": "오닉시아의 병사",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "소환 시 비용이 2인\n무작위 하수인을 얻습니다.\n그 하수인이 이번 턴에 생명력을\n비용으로 사용합니다.\n<i>2회 <b>예고</b> 시 강화됩니다.</i>",
@@ -15114,7 +15695,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -15167,7 +15748,10 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_785",
@@ -15258,7 +15842,10 @@
         125450,
         125451,
         125503
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_786",
@@ -15322,7 +15909,11 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_820",
@@ -15397,7 +15988,11 @@
       "relatedDbfIds": [
         121758,
         121760
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_820t",
@@ -15405,7 +16000,7 @@
       "name": "보급품 조달",
       "type": "SPELL",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>, 하수인을 3마리 뽑습니다.",
@@ -15457,7 +16052,12 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_820t2",
@@ -15465,7 +16065,7 @@
       "name": "보급품 조달",
       "type": "SPELL",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>조각</b>, 내 손에 있는 하수인들에게 +2/+2를 부여합니다.",
@@ -15512,7 +16112,12 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "CATA_897",
@@ -15587,7 +16192,11 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_898",
@@ -15609,7 +16218,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -15665,7 +16274,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_978",
@@ -15722,7 +16333,10 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "CATA_979",
@@ -15791,7 +16405,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "CATA_999",
@@ -15814,7 +16432,7 @@
         "ELEMENTAL",
         "DRAGON"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령, 용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -15880,7 +16498,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_040",
@@ -15902,7 +16522,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -15963,7 +16583,9 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_041",
@@ -16038,7 +16660,11 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_042",
@@ -16095,7 +16721,10 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "MEND_043",
@@ -16152,7 +16781,10 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "MEND_044",
@@ -16216,7 +16848,11 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_045",
@@ -16238,7 +16874,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -16305,7 +16941,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_046",
@@ -16388,7 +17026,11 @@
       "relatedDbfIds": [
         126886,
         130722
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_046t",
@@ -16396,7 +17038,7 @@
       "name": "나무정령",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>전투의 함성:</b> 다른 카드를 시전합니다.",
@@ -16446,7 +17088,12 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "MEND_100",
@@ -16523,7 +17170,11 @@
       ],
       "relatedDbfIds": [
         123854
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_100t",
@@ -16531,7 +17182,7 @@
       "name": "피어나는 구근",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "비용이 1인 무작위 주문을\n셋 시전합니다.\n<i>(매 턴마다 강화됩니다!)</i>",
@@ -16569,7 +17220,11 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "MEND_300",
@@ -16625,7 +17280,11 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_301",
@@ -16709,7 +17368,11 @@
         100,
         226,
         959
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_302",
@@ -16778,7 +17441,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_303",
@@ -16800,7 +17467,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -16872,7 +17539,9 @@
         100,
         226,
         959
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_304",
@@ -16951,7 +17620,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_305",
@@ -17013,7 +17686,10 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "MEND_307",
@@ -17074,7 +17750,11 @@
         100,
         226,
         959
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_500",
@@ -17146,7 +17826,10 @@
           "name": "게임 태그 4285",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "MEND_501",
@@ -17226,7 +17909,11 @@
         123508,
         123495,
         123504
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_502",
@@ -17293,7 +17980,10 @@
           "name": "게임 태그 4285",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "MEND_503",
@@ -17367,7 +18057,11 @@
         123508,
         123495,
         123504
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_504",
@@ -17434,7 +18128,10 @@
           "name": "게임 태그 4285",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "MEND_505",
@@ -17509,7 +18206,10 @@
         123497,
         123499,
         123501
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "MEND_505t",
@@ -17517,7 +18217,7 @@
       "name": "에너지 충전",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "이번 게임에서 내 지맥들이 한 번 더 발동합니다.",
@@ -17544,7 +18244,12 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "MEND_505t2",
@@ -17552,7 +18257,7 @@
       "name": "뚫기",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "이번 게임에서 내 지맥들의 비용이 (2) 감소합니다.",
@@ -17579,7 +18284,12 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "MEND_505t3",
@@ -17587,7 +18297,7 @@
       "name": "강화",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "이번 게임에서 내 지맥들의 효과가 2 증가합니다.",
@@ -17614,7 +18324,12 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "MEND_506",
@@ -17636,7 +18351,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -17707,7 +18422,9 @@
         123508,
         123495,
         123504
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_800",
@@ -17790,7 +18507,11 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_801",
@@ -17812,7 +18533,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "DRAENEI",
+      "race": "드레나이",
       "set": "CATACLYSM",
       "nativeTags": [
         {
@@ -17882,7 +18603,9 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_802",
@@ -17950,7 +18673,10 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "MEND_803",
@@ -18032,7 +18758,11 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_804",
@@ -18120,7 +18850,11 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_805",
@@ -18171,7 +18905,11 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "MEND_900",
@@ -18225,7 +18963,11 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     }
   ]
 }
