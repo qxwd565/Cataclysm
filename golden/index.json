@@ -1,0 +1,970 @@
+{
+  "schema": 1,
+  "set": "Cataclysm",
+  "cards": {
+    "CATA_111": {
+      "dbfId": 122500,
+      "material": "golden/cards/CATA_111.json"
+    },
+    "CATA_130": {
+      "dbfId": 122966,
+      "material": "golden/cards/CATA_130.json"
+    },
+    "CATA_131": {
+      "dbfId": 122967,
+      "material": "golden/cards/CATA_131.json"
+    },
+    "CATA_132": {
+      "dbfId": 122968,
+      "material": "golden/cards/CATA_132.json"
+    },
+    "CATA_132t": {
+      "dbfId": 122969,
+      "material": "golden/cards/CATA_132t.json"
+    },
+    "CATA_133": {
+      "dbfId": 122970,
+      "material": "golden/cards/CATA_133.json"
+    },
+    "CATA_134": {
+      "dbfId": 122971,
+      "material": "golden/cards/CATA_134.json"
+    },
+    "CATA_134t": {
+      "dbfId": 122972,
+      "material": "golden/cards/CATA_134t.json"
+    },
+    "CATA_134t2": {
+      "dbfId": 122973,
+      "material": "golden/cards/CATA_134t2.json"
+    },
+    "CATA_134t3": {
+      "dbfId": 126886,
+      "material": "golden/cards/CATA_134t3.json"
+    },
+    "CATA_135": {
+      "dbfId": 123023,
+      "material": "golden/cards/CATA_135.json"
+    },
+    "CATA_135t": {
+      "dbfId": 122974,
+      "material": "golden/cards/CATA_135t.json"
+    },
+    "CATA_136": {
+      "dbfId": 122975,
+      "material": "golden/cards/CATA_136.json"
+    },
+    "CATA_138": {
+      "dbfId": 122988,
+      "material": "golden/cards/CATA_138.json"
+    },
+    "CATA_139": {
+      "dbfId": 122976,
+      "material": "golden/cards/CATA_139.json"
+    },
+    "CATA_139t": {
+      "dbfId": 122977,
+      "material": "golden/cards/CATA_139t.json"
+    },
+    "CATA_139t2": {
+      "dbfId": 128060,
+      "material": "golden/cards/CATA_139t2.json"
+    },
+    "CATA_139t3": {
+      "dbfId": 128061,
+      "material": "golden/cards/CATA_139t3.json"
+    },
+    "CATA_139t4": {
+      "dbfId": 128062,
+      "material": "golden/cards/CATA_139t4.json"
+    },
+    "CATA_140": {
+      "dbfId": 122978,
+      "material": "golden/cards/CATA_140.json"
+    },
+    "CATA_150": {
+      "dbfId": 124110,
+      "material": "golden/cards/CATA_150.json"
+    },
+    "CATA_150t": {
+      "dbfId": 124113,
+      "material": "golden/cards/CATA_150t.json"
+    },
+    "CATA_150t1": {
+      "dbfId": 125412,
+      "material": "golden/cards/CATA_150t1.json"
+    },
+    "CATA_151": {
+      "dbfId": 124116,
+      "material": "golden/cards/CATA_151.json"
+    },
+    "CATA_151t": {
+      "dbfId": 124108,
+      "material": "golden/cards/CATA_151t.json"
+    },
+    "CATA_151t1": {
+      "dbfId": 125413,
+      "material": "golden/cards/CATA_151t1.json"
+    },
+    "CATA_153": {
+      "dbfId": 125442,
+      "material": "golden/cards/CATA_153.json"
+    },
+    "CATA_153t": {
+      "dbfId": 125443,
+      "material": "golden/cards/CATA_153t.json"
+    },
+    "CATA_153t1": {
+      "dbfId": 127053,
+      "material": "golden/cards/CATA_153t1.json"
+    },
+    "CATA_154": {
+      "dbfId": 125450,
+      "material": "golden/cards/CATA_154.json"
+    },
+    "CATA_154t": {
+      "dbfId": 125451,
+      "material": "golden/cards/CATA_154t.json"
+    },
+    "CATA_154t1": {
+      "dbfId": 125503,
+      "material": "golden/cards/CATA_154t1.json"
+    },
+    "CATA_155": {
+      "dbfId": 124138,
+      "material": "golden/cards/CATA_155.json"
+    },
+    "CATA_155t": {
+      "dbfId": 124139,
+      "material": "golden/cards/CATA_155t.json"
+    },
+    "CATA_155t1": {
+      "dbfId": 125416,
+      "material": "golden/cards/CATA_155t1.json"
+    },
+    "CATA_156": {
+      "dbfId": 123546,
+      "material": "golden/cards/CATA_156.json"
+    },
+    "CATA_158": {
+      "dbfId": 123549,
+      "material": "golden/cards/CATA_158.json"
+    },
+    "CATA_158t": {
+      "dbfId": 127003,
+      "material": "golden/cards/CATA_158t.json"
+    },
+    "CATA_160": {
+      "dbfId": 123552,
+      "material": "golden/cards/CATA_160.json"
+    },
+    "CATA_161": {
+      "dbfId": 123547,
+      "material": "golden/cards/CATA_161.json"
+    },
+    "CATA_180": {
+      "dbfId": 123675,
+      "material": "golden/cards/CATA_180.json"
+    },
+    "CATA_185": {
+      "dbfId": 123779,
+      "material": "golden/cards/CATA_185.json"
+    },
+    "CATA_186": {
+      "dbfId": 123783,
+      "material": "golden/cards/CATA_186.json"
+    },
+    "CATA_186t": {
+      "dbfId": 123782,
+      "material": "golden/cards/CATA_186t.json"
+    },
+    "CATA_190h": {
+      "dbfId": 125467,
+      "material": "golden/cards/CATA_190h.json"
+    },
+    "CATA_190p": {
+      "dbfId": 125466,
+      "material": "golden/cards/CATA_190p.json"
+    },
+    "CATA_190t10": {
+      "dbfId": 127702,
+      "material": "golden/cards/CATA_190t10.json"
+    },
+    "CATA_190t11": {
+      "dbfId": 127699,
+      "material": "golden/cards/CATA_190t11.json"
+    },
+    "CATA_190t12": {
+      "dbfId": 127700,
+      "material": "golden/cards/CATA_190t12.json"
+    },
+    "CATA_190t13": {
+      "dbfId": 127701,
+      "material": "golden/cards/CATA_190t13.json"
+    },
+    "CATA_190t14": {
+      "dbfId": 127703,
+      "material": "golden/cards/CATA_190t14.json"
+    },
+    "CATA_200": {
+      "dbfId": 123060,
+      "material": "golden/cards/CATA_200.json"
+    },
+    "CATA_201": {
+      "dbfId": 123072,
+      "material": "golden/cards/CATA_201.json"
+    },
+    "CATA_202": {
+      "dbfId": 123074,
+      "material": "golden/cards/CATA_202.json"
+    },
+    "CATA_203": {
+      "dbfId": 123077,
+      "material": "golden/cards/CATA_203.json"
+    },
+    "CATA_206": {
+      "dbfId": 123119,
+      "material": "golden/cards/CATA_206.json"
+    },
+    "CATA_208": {
+      "dbfId": 123122,
+      "material": "golden/cards/CATA_208.json"
+    },
+    "CATA_209": {
+      "dbfId": 123124,
+      "material": "golden/cards/CATA_209.json"
+    },
+    "CATA_210": {
+      "dbfId": 123126,
+      "material": "golden/cards/CATA_210.json"
+    },
+    "CATA_210t": {
+      "dbfId": 123127,
+      "material": "golden/cards/CATA_210t.json"
+    },
+    "CATA_213": {
+      "dbfId": 123151,
+      "material": "golden/cards/CATA_213.json"
+    },
+    "CATA_215": {
+      "dbfId": 123315,
+      "material": "golden/cards/CATA_215.json"
+    },
+    "CATA_216": {
+      "dbfId": 123426,
+      "material": "golden/cards/CATA_216.json"
+    },
+    "CATA_300": {
+      "dbfId": 122755,
+      "material": "golden/cards/CATA_300.json"
+    },
+    "CATA_300t1": {
+      "dbfId": 122756,
+      "material": "golden/cards/CATA_300t1.json"
+    },
+    "CATA_300t2": {
+      "dbfId": 128030,
+      "material": "golden/cards/CATA_300t2.json"
+    },
+    "CATA_300t3": {
+      "dbfId": 128031,
+      "material": "golden/cards/CATA_300t3.json"
+    },
+    "CATA_301": {
+      "dbfId": 122757,
+      "material": "golden/cards/CATA_301.json"
+    },
+    "CATA_302": {
+      "dbfId": 122779,
+      "material": "golden/cards/CATA_302.json"
+    },
+    "CATA_303": {
+      "dbfId": 122774,
+      "material": "golden/cards/CATA_303.json"
+    },
+    "CATA_304": {
+      "dbfId": 122881,
+      "material": "golden/cards/CATA_304.json"
+    },
+    "CATA_305": {
+      "dbfId": 122878,
+      "material": "golden/cards/CATA_305.json"
+    },
+    "CATA_306": {
+      "dbfId": 122874,
+      "material": "golden/cards/CATA_306.json"
+    },
+    "CATA_306t1": {
+      "dbfId": 122876,
+      "material": "golden/cards/CATA_306t1.json"
+    },
+    "CATA_306t2": {
+      "dbfId": 122877,
+      "material": "golden/cards/CATA_306t2.json"
+    },
+    "CATA_307": {
+      "dbfId": 123146,
+      "material": "golden/cards/CATA_307.json"
+    },
+    "CATA_308": {
+      "dbfId": 123570,
+      "material": "golden/cards/CATA_308.json"
+    },
+    "CATA_432": {
+      "dbfId": 122401,
+      "material": "golden/cards/CATA_432.json"
+    },
+    "CATA_432t1": {
+      "dbfId": 122402,
+      "material": "golden/cards/CATA_432t1.json"
+    },
+    "CATA_432t2": {
+      "dbfId": 122405,
+      "material": "golden/cards/CATA_432t2.json"
+    },
+    "CATA_432t3": {
+      "dbfId": 122407,
+      "material": "golden/cards/CATA_432t3.json"
+    },
+    "CATA_432t4": {
+      "dbfId": 122410,
+      "material": "golden/cards/CATA_432t4.json"
+    },
+    "CATA_452": {
+      "dbfId": 122454,
+      "material": "golden/cards/CATA_452.json"
+    },
+    "CATA_452t": {
+      "dbfId": 122455,
+      "material": "golden/cards/CATA_452t.json"
+    },
+    "CATA_458": {
+      "dbfId": 122632,
+      "material": "golden/cards/CATA_458.json"
+    },
+    "CATA_464": {
+      "dbfId": 122759,
+      "material": "golden/cards/CATA_464.json"
+    },
+    "CATA_464t": {
+      "dbfId": 122754,
+      "material": "golden/cards/CATA_464t.json"
+    },
+    "CATA_465": {
+      "dbfId": 122760,
+      "material": "golden/cards/CATA_465.json"
+    },
+    "CATA_465t": {
+      "dbfId": 125516,
+      "material": "golden/cards/CATA_465t.json"
+    },
+    "CATA_467": {
+      "dbfId": 122766,
+      "material": "golden/cards/CATA_467.json"
+    },
+    "CATA_469": {
+      "dbfId": 122771,
+      "material": "golden/cards/CATA_469.json"
+    },
+    "CATA_470": {
+      "dbfId": 122778,
+      "material": "golden/cards/CATA_470.json"
+    },
+    "CATA_470t1": {
+      "dbfId": 127644,
+      "material": "golden/cards/CATA_470t1.json"
+    },
+    "CATA_471": {
+      "dbfId": 122879,
+      "material": "golden/cards/CATA_471.json"
+    },
+    "CATA_472": {
+      "dbfId": 123106,
+      "material": "golden/cards/CATA_472.json"
+    },
+    "CATA_473": {
+      "dbfId": 123109,
+      "material": "golden/cards/CATA_473.json"
+    },
+    "CATA_474": {
+      "dbfId": 123112,
+      "material": "golden/cards/CATA_474.json"
+    },
+    "CATA_475": {
+      "dbfId": 123114,
+      "material": "golden/cards/CATA_475.json"
+    },
+    "CATA_476": {
+      "dbfId": 123115,
+      "material": "golden/cards/CATA_476.json"
+    },
+    "CATA_476t": {
+      "dbfId": 123116,
+      "material": "golden/cards/CATA_476t.json"
+    },
+    "CATA_477": {
+      "dbfId": 123117,
+      "material": "golden/cards/CATA_477.json"
+    },
+    "CATA_478": {
+      "dbfId": 123123,
+      "material": "golden/cards/CATA_478.json"
+    },
+    "CATA_478t": {
+      "dbfId": 126052,
+      "material": "golden/cards/CATA_478t.json"
+    },
+    "CATA_479": {
+      "dbfId": 123139,
+      "material": "golden/cards/CATA_479.json"
+    },
+    "CATA_479t": {
+      "dbfId": 123141,
+      "material": "golden/cards/CATA_479t.json"
+    },
+    "CATA_479t2": {
+      "dbfId": 123142,
+      "material": "golden/cards/CATA_479t2.json"
+    },
+    "CATA_479t3": {
+      "dbfId": 123140,
+      "material": "golden/cards/CATA_479t3.json"
+    },
+    "CATA_480": {
+      "dbfId": 123691,
+      "material": "golden/cards/CATA_480.json"
+    },
+    "CATA_481": {
+      "dbfId": 123332,
+      "material": "golden/cards/CATA_481.json"
+    },
+    "CATA_483": {
+      "dbfId": 123351,
+      "material": "golden/cards/CATA_483.json"
+    },
+    "CATA_484": {
+      "dbfId": 123398,
+      "material": "golden/cards/CATA_484.json"
+    },
+    "CATA_485": {
+      "dbfId": 123410,
+      "material": "golden/cards/CATA_485.json"
+    },
+    "CATA_487": {
+      "dbfId": 123419,
+      "material": "golden/cards/CATA_487.json"
+    },
+    "CATA_488": {
+      "dbfId": 123665,
+      "material": "golden/cards/CATA_488.json"
+    },
+    "CATA_488t": {
+      "dbfId": 123666,
+      "material": "golden/cards/CATA_488t.json"
+    },
+    "CATA_488t2": {
+      "dbfId": 128032,
+      "material": "golden/cards/CATA_488t2.json"
+    },
+    "CATA_489": {
+      "dbfId": 123692,
+      "material": "golden/cards/CATA_489.json"
+    },
+    "CATA_489t": {
+      "dbfId": 123743,
+      "material": "golden/cards/CATA_489t.json"
+    },
+    "CATA_489t2": {
+      "dbfId": 123744,
+      "material": "golden/cards/CATA_489t2.json"
+    },
+    "CATA_490": {
+      "dbfId": 122710,
+      "material": "golden/cards/CATA_490.json"
+    },
+    "CATA_491": {
+      "dbfId": 122711,
+      "material": "golden/cards/CATA_491.json"
+    },
+    "CATA_492": {
+      "dbfId": 122712,
+      "material": "golden/cards/CATA_492.json"
+    },
+    "CATA_493": {
+      "dbfId": 122713,
+      "material": "golden/cards/CATA_493.json"
+    },
+    "CATA_494": {
+      "dbfId": 122714,
+      "material": "golden/cards/CATA_494.json"
+    },
+    "CATA_496": {
+      "dbfId": 122720,
+      "material": "golden/cards/CATA_496.json"
+    },
+    "CATA_497": {
+      "dbfId": 122832,
+      "material": "golden/cards/CATA_497.json"
+    },
+    "CATA_498": {
+      "dbfId": 122829,
+      "material": "golden/cards/CATA_498.json"
+    },
+    "CATA_499": {
+      "dbfId": 122831,
+      "material": "golden/cards/CATA_499.json"
+    },
+    "CATA_525": {
+      "dbfId": 122765,
+      "material": "golden/cards/CATA_525.json"
+    },
+    "CATA_525t": {
+      "dbfId": 126995,
+      "material": "golden/cards/CATA_525t.json"
+    },
+    "CATA_526": {
+      "dbfId": 122770,
+      "material": "golden/cards/CATA_526.json"
+    },
+    "CATA_527": {
+      "dbfId": 122772,
+      "material": "golden/cards/CATA_527.json"
+    },
+    "CATA_527t2": {
+      "dbfId": 122845,
+      "material": "golden/cards/CATA_527t2.json"
+    },
+    "CATA_528": {
+      "dbfId": 122773,
+      "material": "golden/cards/CATA_528.json"
+    },
+    "CATA_528t": {
+      "dbfId": 127933,
+      "material": "golden/cards/CATA_528t.json"
+    },
+    "CATA_529": {
+      "dbfId": 122775,
+      "material": "golden/cards/CATA_529.json"
+    },
+    "CATA_530": {
+      "dbfId": 122848,
+      "material": "golden/cards/CATA_530.json"
+    },
+    "CATA_533": {
+      "dbfId": 122995,
+      "material": "golden/cards/CATA_533.json"
+    },
+    "CATA_550": {
+      "dbfId": 122865,
+      "material": "golden/cards/CATA_550.json"
+    },
+    "CATA_550t": {
+      "dbfId": 122866,
+      "material": "golden/cards/CATA_550t.json"
+    },
+    "CATA_550t2": {
+      "dbfId": 127989,
+      "material": "golden/cards/CATA_550t2.json"
+    },
+    "CATA_550t3": {
+      "dbfId": 127990,
+      "material": "golden/cards/CATA_550t3.json"
+    },
+    "CATA_550t4": {
+      "dbfId": 127991,
+      "material": "golden/cards/CATA_550t4.json"
+    },
+    "CATA_550t5": {
+      "dbfId": 127992,
+      "material": "golden/cards/CATA_550t5.json"
+    },
+    "CATA_550t6": {
+      "dbfId": 127993,
+      "material": "golden/cards/CATA_550t6.json"
+    },
+    "CATA_551": {
+      "dbfId": 122867,
+      "material": "golden/cards/CATA_551.json"
+    },
+    "CATA_551t": {
+      "dbfId": 122868,
+      "material": "golden/cards/CATA_551t.json"
+    },
+    "CATA_552": {
+      "dbfId": 122869,
+      "material": "golden/cards/CATA_552.json"
+    },
+    "CATA_552t": {
+      "dbfId": 122870,
+      "material": "golden/cards/CATA_552t.json"
+    },
+    "CATA_553": {
+      "dbfId": 122871,
+      "material": "golden/cards/CATA_553.json"
+    },
+    "CATA_553t": {
+      "dbfId": 122872,
+      "material": "golden/cards/CATA_553t.json"
+    },
+    "CATA_554": {
+      "dbfId": 122883,
+      "material": "golden/cards/CATA_554.json"
+    },
+    "CATA_556": {
+      "dbfId": 122933,
+      "material": "golden/cards/CATA_556.json"
+    },
+    "CATA_557": {
+      "dbfId": 122932,
+      "material": "golden/cards/CATA_557.json"
+    },
+    "CATA_558": {
+      "dbfId": 122937,
+      "material": "golden/cards/CATA_558.json"
+    },
+    "CATA_560": {
+      "dbfId": 122939,
+      "material": "golden/cards/CATA_560.json"
+    },
+    "CATA_561": {
+      "dbfId": 122947,
+      "material": "golden/cards/CATA_561.json"
+    },
+    "CATA_561t": {
+      "dbfId": 127584,
+      "material": "golden/cards/CATA_561t.json"
+    },
+    "CATA_563": {
+      "dbfId": 122950,
+      "material": "golden/cards/CATA_563.json"
+    },
+    "CATA_564": {
+      "dbfId": 122952,
+      "material": "golden/cards/CATA_564.json"
+    },
+    "CATA_565": {
+      "dbfId": 122953,
+      "material": "golden/cards/CATA_565.json"
+    },
+    "CATA_565t": {
+      "dbfId": 127071,
+      "material": "golden/cards/CATA_565t.json"
+    },
+    "CATA_566": {
+      "dbfId": 122961,
+      "material": "golden/cards/CATA_566.json"
+    },
+    "CATA_567": {
+      "dbfId": 122963,
+      "material": "golden/cards/CATA_567.json"
+    },
+    "CATA_568": {
+      "dbfId": 122999,
+      "material": "golden/cards/CATA_568.json"
+    },
+    "CATA_569": {
+      "dbfId": 123001,
+      "material": "golden/cards/CATA_569.json"
+    },
+    "CATA_570": {
+      "dbfId": 123006,
+      "material": "golden/cards/CATA_570.json"
+    },
+    "CATA_580": {
+      "dbfId": 123055,
+      "material": "golden/cards/CATA_580.json"
+    },
+    "CATA_580t": {
+      "dbfId": 127082,
+      "material": "golden/cards/CATA_580t.json"
+    },
+    "CATA_581": {
+      "dbfId": 123056,
+      "material": "golden/cards/CATA_581.json"
+    },
+    "CATA_582": {
+      "dbfId": 123157,
+      "material": "golden/cards/CATA_582.json"
+    },
+    "CATA_584": {
+      "dbfId": 123163,
+      "material": "golden/cards/CATA_584.json"
+    },
+    "CATA_585": {
+      "dbfId": 123164,
+      "material": "golden/cards/CATA_585.json"
+    },
+    "CATA_586": {
+      "dbfId": 123166,
+      "material": "golden/cards/CATA_586.json"
+    },
+    "CATA_591": {
+      "dbfId": 123321,
+      "material": "golden/cards/CATA_591.json"
+    },
+    "CATA_610": {
+      "dbfId": 123382,
+      "material": "golden/cards/CATA_610.json"
+    },
+    "CATA_612": {
+      "dbfId": 123383,
+      "material": "golden/cards/CATA_612.json"
+    },
+    "CATA_613": {
+      "dbfId": 123384,
+      "material": "golden/cards/CATA_613.json"
+    },
+    "CATA_614": {
+      "dbfId": 123385,
+      "material": "golden/cards/CATA_614.json"
+    },
+    "CATA_615": {
+      "dbfId": 123396,
+      "material": "golden/cards/CATA_615.json"
+    },
+    "CATA_615t": {
+      "dbfId": 123397,
+      "material": "golden/cards/CATA_615t.json"
+    },
+    "CATA_616": {
+      "dbfId": 123440,
+      "material": "golden/cards/CATA_616.json"
+    },
+    "CATA_621": {
+      "dbfId": 123403,
+      "material": "golden/cards/CATA_621.json"
+    },
+    "CATA_697": {
+      "dbfId": 123604,
+      "material": "golden/cards/CATA_697.json"
+    },
+    "CATA_699": {
+      "dbfId": 123539,
+      "material": "golden/cards/CATA_699.json"
+    },
+    "CATA_720": {
+      "dbfId": 122635,
+      "material": "golden/cards/CATA_720.json"
+    },
+    "CATA_721": {
+      "dbfId": 122637,
+      "material": "golden/cards/CATA_721.json"
+    },
+    "CATA_722": {
+      "dbfId": 122639,
+      "material": "golden/cards/CATA_722.json"
+    },
+    "CATA_723": {
+      "dbfId": 122641,
+      "material": "golden/cards/CATA_723.json"
+    },
+    "CATA_724": {
+      "dbfId": 122642,
+      "material": "golden/cards/CATA_724.json"
+    },
+    "CATA_725": {
+      "dbfId": 122643,
+      "material": "golden/cards/CATA_725.json"
+    },
+    "CATA_725t": {
+      "dbfId": 127045,
+      "material": "golden/cards/CATA_725t.json"
+    },
+    "CATA_726": {
+      "dbfId": 125432,
+      "material": "golden/cards/CATA_726.json"
+    },
+    "CATA_726t": {
+      "dbfId": 125433,
+      "material": "golden/cards/CATA_726t.json"
+    },
+    "CATA_726t1": {
+      "dbfId": 125435,
+      "material": "golden/cards/CATA_726t1.json"
+    },
+    "CATA_780": {
+      "dbfId": 123600,
+      "material": "golden/cards/CATA_780.json"
+    },
+    "CATA_780t": {
+      "dbfId": 126983,
+      "material": "golden/cards/CATA_780t.json"
+    },
+    "CATA_785": {
+      "dbfId": 123605,
+      "material": "golden/cards/CATA_785.json"
+    },
+    "CATA_786": {
+      "dbfId": 123606,
+      "material": "golden/cards/CATA_786.json"
+    },
+    "CATA_820": {
+      "dbfId": 121757,
+      "material": "golden/cards/CATA_820.json"
+    },
+    "CATA_820t": {
+      "dbfId": 121758,
+      "material": "golden/cards/CATA_820t.json"
+    },
+    "CATA_820t2": {
+      "dbfId": 121760,
+      "material": "golden/cards/CATA_820t2.json"
+    },
+    "CATA_897": {
+      "dbfId": 123660,
+      "material": "golden/cards/CATA_897.json"
+    },
+    "CATA_898": {
+      "dbfId": 123655,
+      "material": "golden/cards/CATA_898.json"
+    },
+    "CATA_978": {
+      "dbfId": 123847,
+      "material": "golden/cards/CATA_978.json"
+    },
+    "CATA_979": {
+      "dbfId": 123848,
+      "material": "golden/cards/CATA_979.json"
+    },
+    "CATA_999": {
+      "dbfId": 128058,
+      "material": "golden/cards/CATA_999.json"
+    },
+    "MEND_040": {
+      "dbfId": 123472,
+      "material": "golden/cards/MEND_040.json"
+    },
+    "MEND_041": {
+      "dbfId": 123478,
+      "material": "golden/cards/MEND_041.json"
+    },
+    "MEND_042": {
+      "dbfId": 123485,
+      "material": "golden/cards/MEND_042.json"
+    },
+    "MEND_043": {
+      "dbfId": 123481,
+      "material": "golden/cards/MEND_043.json"
+    },
+    "MEND_044": {
+      "dbfId": 123483,
+      "material": "golden/cards/MEND_044.json"
+    },
+    "MEND_045": {
+      "dbfId": 123482,
+      "material": "golden/cards/MEND_045.json"
+    },
+    "MEND_046": {
+      "dbfId": 123493,
+      "material": "golden/cards/MEND_046.json"
+    },
+    "MEND_046t": {
+      "dbfId": 130722,
+      "material": "golden/cards/MEND_046t.json"
+    },
+    "MEND_100": {
+      "dbfId": 123849,
+      "material": "golden/cards/MEND_100.json"
+    },
+    "MEND_100t": {
+      "dbfId": 123854,
+      "material": "golden/cards/MEND_100t.json"
+    },
+    "MEND_300": {
+      "dbfId": 123486,
+      "material": "golden/cards/MEND_300.json"
+    },
+    "MEND_301": {
+      "dbfId": 123488,
+      "material": "golden/cards/MEND_301.json"
+    },
+    "MEND_302": {
+      "dbfId": 123490,
+      "material": "golden/cards/MEND_302.json"
+    },
+    "MEND_303": {
+      "dbfId": 123491,
+      "material": "golden/cards/MEND_303.json"
+    },
+    "MEND_304": {
+      "dbfId": 123492,
+      "material": "golden/cards/MEND_304.json"
+    },
+    "MEND_305": {
+      "dbfId": 123510,
+      "material": "golden/cards/MEND_305.json"
+    },
+    "MEND_307": {
+      "dbfId": 123513,
+      "material": "golden/cards/MEND_307.json"
+    },
+    "MEND_500": {
+      "dbfId": 123495,
+      "material": "golden/cards/MEND_500.json"
+    },
+    "MEND_501": {
+      "dbfId": 123496,
+      "material": "golden/cards/MEND_501.json"
+    },
+    "MEND_502": {
+      "dbfId": 123504,
+      "material": "golden/cards/MEND_502.json"
+    },
+    "MEND_503": {
+      "dbfId": 123507,
+      "material": "golden/cards/MEND_503.json"
+    },
+    "MEND_504": {
+      "dbfId": 123508,
+      "material": "golden/cards/MEND_504.json"
+    },
+    "MEND_505": {
+      "dbfId": 123514,
+      "material": "golden/cards/MEND_505.json"
+    },
+    "MEND_505t": {
+      "dbfId": 123497,
+      "material": "golden/cards/MEND_505t.json"
+    },
+    "MEND_505t2": {
+      "dbfId": 123499,
+      "material": "golden/cards/MEND_505t2.json"
+    },
+    "MEND_505t3": {
+      "dbfId": 123501,
+      "material": "golden/cards/MEND_505t3.json"
+    },
+    "MEND_506": {
+      "dbfId": 123515,
+      "material": "golden/cards/MEND_506.json"
+    },
+    "MEND_800": {
+      "dbfId": 123620,
+      "material": "golden/cards/MEND_800.json"
+    },
+    "MEND_801": {
+      "dbfId": 123621,
+      "material": "golden/cards/MEND_801.json"
+    },
+    "MEND_802": {
+      "dbfId": 123622,
+      "material": "golden/cards/MEND_802.json"
+    },
+    "MEND_803": {
+      "dbfId": 123623,
+      "material": "golden/cards/MEND_803.json"
+    },
+    "MEND_804": {
+      "dbfId": 123624,
+      "material": "golden/cards/MEND_804.json"
+    },
+    "MEND_805": {
+      "dbfId": 123625,
+      "material": "golden/cards/MEND_805.json"
+    },
+    "MEND_900": {
+      "dbfId": 127427,
+      "material": "golden/cards/MEND_900.json"
+    }
+  }
+}
