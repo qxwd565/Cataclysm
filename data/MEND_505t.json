@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "이번 게임에서 내 지맥들이 한 번 더 발동합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

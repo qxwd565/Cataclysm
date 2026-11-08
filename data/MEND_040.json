@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>휴면</b> 상태로 시작합니다. 내 전장이 가득 차면 깨어납니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

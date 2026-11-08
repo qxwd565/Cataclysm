@@ -117,7 +117,9 @@
       }
     ],
     "nativeRawText": "<b>거수 +99</b>, 자리가 있을 때 남은 부속 기관을 소환합니다.@<b>거수 +99</b>, 자리가 있을 때 남은 부속 기관을 소환합니다.\n<i>({0}개 남음!)</i>",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

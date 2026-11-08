@@ -78,7 +78,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_130",
@@ -166,7 +168,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_131",
@@ -240,7 +244,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_132",
@@ -327,7 +333,9 @@
       ],
       "relatedDbfIds": [
         122969
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_132t",
@@ -394,7 +402,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_133",
@@ -482,7 +492,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_134",
@@ -572,7 +584,9 @@
         122972,
         122973,
         126886
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_134t",
@@ -638,7 +652,9 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_134t2",
@@ -697,7 +713,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_134t3",
@@ -747,7 +765,9 @@
           "name": "게임 태그 2831",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_135",
@@ -802,7 +822,9 @@
       ],
       "relatedDbfIds": [
         122974
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_135t",
@@ -847,7 +869,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_136",
@@ -904,7 +928,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_138",
@@ -956,7 +982,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_139",
@@ -1051,7 +1079,9 @@
         128060,
         128061,
         128062
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_139t",
@@ -1114,7 +1144,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_139t2",
@@ -1177,7 +1209,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_139t3",
@@ -1240,7 +1274,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_139t4",
@@ -1303,7 +1339,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_140",
@@ -1391,7 +1429,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_150",
@@ -1524,7 +1564,9 @@
       "relatedDbfIds": [
         124113,
         125412
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_150t",
@@ -1616,7 +1658,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_150t1",
@@ -1703,7 +1747,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_151",
@@ -1840,7 +1886,9 @@
       "relatedDbfIds": [
         124108,
         125413
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_151t",
@@ -1919,7 +1967,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_151t1",
@@ -1998,7 +2048,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_153",
@@ -2132,7 +2184,9 @@
       "relatedDbfIds": [
         125443,
         127053
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_153t",
@@ -2216,7 +2270,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_153t1",
@@ -2300,7 +2356,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_154",
@@ -2424,7 +2482,9 @@
       "relatedDbfIds": [
         125451,
         125503
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_154t",
@@ -2503,7 +2563,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_154t1",
@@ -2582,7 +2644,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_155",
@@ -2720,7 +2784,9 @@
       "relatedDbfIds": [
         124139,
         125416
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_155t",
@@ -2805,7 +2871,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_155t1",
@@ -2890,7 +2958,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_156",
@@ -2978,7 +3048,9 @@
         124138,
         124139,
         125416
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_158",
@@ -3079,7 +3151,9 @@
         125450,
         125451,
         125503
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_158t",
@@ -3148,7 +3222,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_160",
@@ -3258,7 +3334,9 @@
         124110,
         124113,
         125412
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_161",
@@ -3336,7 +3414,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_180",
@@ -3409,7 +3489,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_185",
@@ -3488,7 +3570,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_186",
@@ -3555,7 +3639,9 @@
       ],
       "relatedDbfIds": [
         123782
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_186t",
@@ -3595,7 +3681,9 @@
           "name": "특수 발광 효과",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_190h",
@@ -3735,7 +3823,9 @@
         127700,
         127701,
         127703
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_190p",
@@ -3770,7 +3860,9 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_190t10",
@@ -3805,7 +3897,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_190t11",
@@ -3840,7 +3934,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_190t12",
@@ -3880,7 +3976,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_190t13",
@@ -3915,7 +4013,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_190t14",
@@ -3969,7 +4069,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_200",
@@ -4052,7 +4154,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_201",
@@ -4125,7 +4229,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_202",
@@ -4182,7 +4288,9 @@
           "name": "산산조각",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_203",
@@ -4241,7 +4349,9 @@
       ],
       "mechanics": [
         "TRADEABLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_206",
@@ -4339,7 +4449,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_208",
@@ -4403,7 +4515,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_209",
@@ -4478,7 +4592,9 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_210",
@@ -4556,7 +4672,9 @@
       ],
       "relatedDbfIds": [
         123127
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_210t",
@@ -4615,7 +4733,9 @@
           "name": "새끼용",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_213",
@@ -4713,7 +4833,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_215",
@@ -4765,7 +4887,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_216",
@@ -4843,7 +4967,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_300",
@@ -4957,7 +5083,9 @@
         122756,
         128030,
         128031
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_300t1",
@@ -5025,7 +5153,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_300t2",
@@ -5093,7 +5223,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_300t3",
@@ -5161,7 +5293,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_301",
@@ -5217,7 +5351,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_302",
@@ -5274,7 +5410,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_303",
@@ -5326,7 +5464,9 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_304",
@@ -5420,7 +5560,9 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_305",
@@ -5508,7 +5650,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_306",
@@ -5594,7 +5738,9 @@
       "relatedDbfIds": [
         122876,
         122877
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_306t1",
@@ -5669,7 +5815,9 @@
       "relatedDbfIds": [
         122876,
         122877
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_306t2",
@@ -5720,7 +5868,9 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_307",
@@ -5818,7 +5968,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_308",
@@ -5875,7 +6027,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_432",
@@ -5996,7 +6150,9 @@
         122405,
         122407,
         122410
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_432t1",
@@ -6079,7 +6235,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_432t2",
@@ -6162,7 +6320,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_432t3",
@@ -6244,7 +6404,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_432t4",
@@ -6327,7 +6489,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_452",
@@ -6387,7 +6551,9 @@
       ],
       "relatedDbfIds": [
         122455
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_452t",
@@ -6441,7 +6607,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_458",
@@ -6526,7 +6694,9 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_464",
@@ -6633,7 +6803,9 @@
       ],
       "relatedDbfIds": [
         122754
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_464t",
@@ -6679,7 +6851,9 @@
           "name": "주문 속성",
           "value": 3
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_465",
@@ -6756,7 +6930,9 @@
       ],
       "relatedDbfIds": [
         125516
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_465t",
@@ -6816,7 +6992,9 @@
           "name": "게임 태그 2534",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_467",
@@ -6890,7 +7068,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_469",
@@ -7005,7 +7185,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_470",
@@ -7101,7 +7283,9 @@
       ],
       "relatedDbfIds": [
         127644
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_470t1",
@@ -7161,7 +7345,9 @@
           "name": "게임 태그 2534",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_471",
@@ -7220,7 +7406,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_472",
@@ -7284,7 +7472,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_473",
@@ -7364,7 +7554,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DIVINE_SHIELD"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_474",
@@ -7452,7 +7644,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_475",
@@ -7531,7 +7725,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_476",
@@ -7628,7 +7824,9 @@
       ],
       "relatedDbfIds": [
         123116
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_476t",
@@ -7696,7 +7894,9 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_477",
@@ -7752,7 +7952,9 @@
           "name": "손의 카드 대상 지정",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_478",
@@ -7839,7 +8041,9 @@
       ],
       "relatedDbfIds": [
         126052
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_478t",
@@ -7893,7 +8097,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_479",
@@ -7983,7 +8189,9 @@
         123141,
         123142,
         123140
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_479t",
@@ -8049,7 +8257,9 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_479t2",
@@ -8108,7 +8318,9 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_479t3",
@@ -8162,7 +8374,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_480",
@@ -8244,7 +8458,9 @@
           "name": "성기사 오라",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_481",
@@ -8330,7 +8546,9 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_483",
@@ -8424,7 +8642,9 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_484",
@@ -8523,7 +8743,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_485",
@@ -8580,7 +8802,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_487",
@@ -8673,7 +8897,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_488",
@@ -8800,7 +9026,9 @@
       "relatedDbfIds": [
         123666,
         128032
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_488t",
@@ -8877,7 +9105,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_488t2",
@@ -8954,7 +9184,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_489",
@@ -9035,7 +9267,9 @@
       "relatedDbfIds": [
         123743,
         123744
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_489t",
@@ -9101,7 +9335,9 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_489t2",
@@ -9152,7 +9388,9 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_490",
@@ -9236,7 +9474,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_491",
@@ -9293,7 +9533,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_492",
@@ -9370,7 +9612,9 @@
         125432,
         125433,
         125435
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_493",
@@ -9434,7 +9678,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_494",
@@ -9517,7 +9763,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_496",
@@ -9579,7 +9827,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_497",
@@ -9723,7 +9973,9 @@
         125435,
         124113,
         125412
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_498",
@@ -9774,7 +10026,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_499",
@@ -9831,7 +10085,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_525",
@@ -9941,7 +10197,9 @@
         124116,
         124108,
         125413
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_525t",
@@ -10010,7 +10268,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_526",
@@ -10056,7 +10316,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_527",
@@ -10133,7 +10395,9 @@
       ],
       "relatedDbfIds": [
         122845
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_527t2",
@@ -10200,7 +10464,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_528",
@@ -10278,7 +10544,9 @@
       ],
       "relatedDbfIds": [
         127933
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_528t",
@@ -10340,7 +10608,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_529",
@@ -10405,7 +10675,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_530",
@@ -10511,7 +10783,9 @@
         124116,
         124108,
         125413
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_533",
@@ -10571,7 +10845,9 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_550",
@@ -10693,7 +10969,9 @@
         127991,
         127992,
         127993
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_550t",
@@ -10776,7 +11054,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_550t2",
@@ -10859,7 +11139,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_550t3",
@@ -10942,7 +11224,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_550t4",
@@ -11025,7 +11309,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_550t5",
@@ -11108,7 +11394,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_550t6",
@@ -11191,7 +11479,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_551",
@@ -11268,7 +11558,9 @@
       ],
       "relatedDbfIds": [
         122868
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_551t",
@@ -11335,7 +11627,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_552",
@@ -11417,7 +11711,9 @@
       ],
       "relatedDbfIds": [
         122870
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_552t",
@@ -11484,7 +11780,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_553",
@@ -11577,7 +11875,9 @@
       ],
       "relatedDbfIds": [
         122872
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_553t",
@@ -11660,7 +11960,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_554",
@@ -11706,7 +12008,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_556",
@@ -11794,7 +12098,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_557",
@@ -11845,7 +12151,9 @@
           "name": "게임 태그 2433",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_558",
@@ -11906,7 +12214,9 @@
           "name": "모면",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_560",
@@ -11957,7 +12267,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_561",
@@ -12054,7 +12366,9 @@
         127584,
         125443,
         127053
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_561t",
@@ -12116,7 +12430,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_563",
@@ -12205,7 +12521,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_564",
@@ -12279,7 +12597,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_565",
@@ -12384,7 +12704,9 @@
         125442,
         125443,
         127053
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_565t",
@@ -12458,7 +12780,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_566",
@@ -12527,7 +12851,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_567",
@@ -12579,7 +12905,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_568",
@@ -12636,7 +12964,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_569",
@@ -12700,7 +13030,9 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_570",
@@ -12783,7 +13115,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_580",
@@ -12878,7 +13212,9 @@
         124110,
         124113,
         125412
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_580t",
@@ -12955,7 +13291,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_581",
@@ -13017,7 +13355,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_582",
@@ -13074,7 +13414,9 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_584",
@@ -13125,7 +13467,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_585",
@@ -13187,7 +13531,9 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_586",
@@ -13266,7 +13612,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_591",
@@ -13355,7 +13703,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_610",
@@ -13414,7 +13764,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_612",
@@ -13498,7 +13850,9 @@
       "mechanics": [
         "FREEZE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_613",
@@ -13567,7 +13921,9 @@
       ],
       "mechanics": [
         "IMMUNE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_614",
@@ -13656,7 +14012,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_615",
@@ -13735,7 +14093,9 @@
       ],
       "relatedDbfIds": [
         123397
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_615t",
@@ -13803,7 +14163,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_616",
@@ -13864,7 +14226,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_621",
@@ -13910,7 +14274,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_697",
@@ -13988,7 +14354,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_699",
@@ -14067,7 +14435,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_720",
@@ -14141,7 +14511,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_721",
@@ -14215,7 +14587,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_722",
@@ -14344,7 +14718,9 @@
         125435,
         124113,
         125412
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_723",
@@ -14427,7 +14803,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_724",
@@ -14497,7 +14875,9 @@
       "mechanics": [
         "OVERLOAD",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_725",
@@ -14598,7 +14978,9 @@
         125432,
         125433,
         125435
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_725t",
@@ -14666,7 +15048,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_726",
@@ -14776,7 +15160,9 @@
       "relatedDbfIds": [
         125433,
         125435
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_726t",
@@ -14854,7 +15240,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_726t1",
@@ -14932,7 +15320,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_780",
@@ -15038,7 +15428,9 @@
         124138,
         124139,
         125416
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_780t",
@@ -15113,7 +15505,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_785",
@@ -15204,7 +15598,9 @@
         125450,
         125451,
         125503
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_786",
@@ -15268,7 +15664,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_820",
@@ -15343,7 +15741,9 @@
       "relatedDbfIds": [
         121758,
         121760
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_820t",
@@ -15403,7 +15803,9 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_820t2",
@@ -15458,7 +15860,9 @@
           "name": "조각",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_897",
@@ -15533,7 +15937,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_898",
@@ -15611,7 +16017,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_978",
@@ -15668,7 +16076,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_979",
@@ -15737,7 +16147,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "CATA_999",
@@ -15826,7 +16238,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_040",
@@ -15909,7 +16323,9 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_041",
@@ -15984,7 +16400,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_042",
@@ -16041,7 +16459,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_043",
@@ -16098,7 +16518,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_044",
@@ -16162,7 +16584,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_045",
@@ -16251,7 +16675,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_046",
@@ -16334,7 +16760,9 @@
       "relatedDbfIds": [
         126886,
         130722
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_046t",
@@ -16392,7 +16820,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_100",
@@ -16469,7 +16899,9 @@
       ],
       "relatedDbfIds": [
         123854
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_100t",
@@ -16515,7 +16947,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_300",
@@ -16571,7 +17005,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_301",
@@ -16655,7 +17091,9 @@
         100,
         226,
         959
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_302",
@@ -16724,7 +17162,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_303",
@@ -16818,7 +17258,9 @@
         100,
         226,
         959
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_304",
@@ -16897,7 +17339,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_305",
@@ -16959,7 +17403,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_307",
@@ -17020,7 +17466,9 @@
         100,
         226,
         959
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_500",
@@ -17092,7 +17540,9 @@
           "name": "게임 태그 4285",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_501",
@@ -17172,7 +17622,9 @@
         123508,
         123495,
         123504
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_502",
@@ -17239,7 +17691,9 @@
           "name": "게임 태그 4285",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_503",
@@ -17313,7 +17767,9 @@
         123508,
         123495,
         123504
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_504",
@@ -17380,7 +17836,9 @@
           "name": "게임 태그 4285",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_505",
@@ -17455,7 +17913,9 @@
         123497,
         123499,
         123501
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_505t",
@@ -17490,7 +17950,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_505t2",
@@ -17525,7 +17987,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_505t3",
@@ -17560,7 +18024,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_506",
@@ -17653,7 +18119,9 @@
         123508,
         123495,
         123504
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_800",
@@ -17736,7 +18204,9 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_801",
@@ -17828,7 +18298,9 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_802",
@@ -17896,7 +18368,9 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_803",
@@ -17978,7 +18452,9 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_804",
@@ -18066,7 +18542,9 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_805",
@@ -18117,7 +18595,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     },
     {
       "id": "MEND_900",
@@ -18171,7 +18651,9 @@
       ],
       "relatedDbfIds": [
         1652
-      ]
+      ],
+      "releasedAt": "2026-05-06",
+      "releaseStatus": "verified"
     }
   ]
 }

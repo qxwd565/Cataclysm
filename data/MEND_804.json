@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 모든 아군 은빛 성기사단 신병의 능력치를 2배로 만들고 <b>도발</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

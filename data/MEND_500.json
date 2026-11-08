@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]무작위 적 하수인에게\n피해를 ${0} 줍니다.\n초과한 피해량만큼\n적 영웅에게 피해를 줍니다.@[x]무작위 적 하수인에게\n피해 ${0}|1(을,를) {1}번 줍니다.\n초과한 피해량만큼\n적 영웅에게 피해를 줍니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

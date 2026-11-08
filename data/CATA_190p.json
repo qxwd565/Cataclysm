@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "이번 턴에 공격력 +$a5",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

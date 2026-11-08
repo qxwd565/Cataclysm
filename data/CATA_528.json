@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "내 다음 턴이 시작될 때,& <b>도발</b> 능력이 있는 3/3 나가를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 비용이 (3) 이하인 내 다음 멀록이 마나 대신 생명력을 비용으로 사용합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

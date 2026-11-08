@@ -81,7 +81,9 @@
           "cost": 5
         }
       }
-    ]
+    ],
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

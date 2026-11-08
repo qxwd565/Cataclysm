@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때,& <b>천상의 보호막</b> 능력이 있는 6/6 정령 용족을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

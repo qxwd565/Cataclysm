@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "이 하수인이 피해를 받을 때마다 무작위 화염 주문을 얻습니다. 그 주문의 비용이 (3) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

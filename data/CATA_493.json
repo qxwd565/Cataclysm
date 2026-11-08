@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, 이번 게임에서 내가 버린 카드의 수만큼 +2/+2를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

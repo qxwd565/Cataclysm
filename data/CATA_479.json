@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "[x]<b>산산조각</b>, 4/2 비룡을 둘\n소환합니다. 내 하수인들에게\n공격력 +1과 <b>천상의 보호막</b>을\n부여합니다.@[x]4/2 비룡을 둘 소환합니다.\n내 하수인들에게 공격력 +1과\n<b>천상의 보호막</b>을 부여합니다.",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

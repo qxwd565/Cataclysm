@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>산산조각</b>, 하수인을 3마리 뽑습니다. 내 손에 있는 하수인들에게 +2/+2를 부여합니다.@하수인을 3마리 뽑습니다. 내 손에 있는 하수인들에게 +2/+2를 부여합니다.",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

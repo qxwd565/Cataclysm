@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b>\n무작위 적에게 피해를\n{0} 줍니다. <i>2회 <b>예고</b> 시\n강화됩니다.</i>@[x]<b>죽음의 메아리:</b>\n무작위 적에게 피해를\n{0} 줍니다. <i>1회 <b>예고</b> 시\n강화됩니다.</i>@<b>죽음의 메아리:</b>\n무작위 적에게\n피해를 {0} 줍니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

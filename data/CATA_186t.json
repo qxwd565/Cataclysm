@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "손에서 양옆에 있는 카드의 비용이 (1) 증가합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

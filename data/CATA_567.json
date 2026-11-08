@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "모든 아군 하수인을 비용이 (1) 높은 하수인으로 변신시킵니다. 이 하수인들은 죽을 때 원래의 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

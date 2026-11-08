@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "[x]소환 시 비용이 {0}인\n무작위 하수인을 얻습니다.\n그 하수인이 이번 턴에 생명력을\n비용으로 사용합니다.\n<i>2회 <b>예고</b> 시 강화됩니다.</i>@[x]소환 시 비용이 {0}인\n무작위 하수인을 얻습니다.\n그 하수인이 이번 턴에 생명력을\n비용으로 사용합니다.\n<i>1회 <b>예고</b> 시 강화됩니다.</i>@[x]소환 시 비용이 {0}인\n무작위 하수인을 얻습니다.\n그 하수인이 이번 턴에 생명력을\n비용으로 사용합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

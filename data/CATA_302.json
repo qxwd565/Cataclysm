@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]하수인의 생명력을\n모두 회복시킵니다.\n카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

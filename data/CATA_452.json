@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]6/6 용족을 소환합니다.\n이번 턴에 주문으로 준 피해\n1당 비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

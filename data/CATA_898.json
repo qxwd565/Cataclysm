@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "모든 적 하수인이\n<b>도발</b>을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

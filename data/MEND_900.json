@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "{0} 은빛 성기사단 신병을 4명 소환하고 얻습니다.",
-    "nativeTextBuilder": 46
+    "nativeTextBuilder": 46,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

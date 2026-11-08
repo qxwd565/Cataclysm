@@ -71,7 +71,9 @@
       }
     ],
     "nativeRawText": "<b>전투의_함성:</b> 이 하수인의 공격력만큼 피해를 줍니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

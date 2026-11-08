@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "피해를 $2 줍니다. 무작위 적 하수인에게 피해를 $1 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

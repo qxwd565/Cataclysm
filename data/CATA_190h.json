@@ -136,7 +136,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 대격변 {0}개를 선택해 일으킵니다! <i>2회 <b>예고</b> 시 강화됩니다.</i>@<b>전투의 함성:</b> 대격변 {0}개를 선택해 일으킵니다! <i>1회 <b>예고</b> 시 강화됩니다.</i>@<b>전투의 함성:</b> 대격변 {0}개를 선택해 일으킵니다!",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

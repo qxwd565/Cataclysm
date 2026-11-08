@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 뽑고 방어도를\n3 얻습니다. 내가 이전\n턴에 하수인을 내지\n않았다면, 반복합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

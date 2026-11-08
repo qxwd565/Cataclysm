@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "내 손에 있는 하수인을 선택합니다. 그 하수인에게 +2/+2를 부여합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

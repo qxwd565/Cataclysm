@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "모든 하수인에게 피해를 $@ 줍니다. <i>(전장에 있는 하수인의 수에 따라 강화됨)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

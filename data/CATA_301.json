@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "이번 턴에 생명력을 회복시키는 내 다음 카드와 능력이 그만큼의 피해를 줍니다. ",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

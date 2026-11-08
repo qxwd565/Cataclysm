@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "하수인에게 생명력 +2와 <b>도발</b>을 부여합니다. 그 하수인이 내 다음 턴이 끝날 때까지 잠듭니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

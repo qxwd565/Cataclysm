@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>천상의 보호막</b>, 이 하수인이 <b>천상의 보호막</b>을 잃은 후,& 내 은빛 성기사단 신병들에게 이번 게임 동안 생명력을 +1 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

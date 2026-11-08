@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]비용이 (8) 이상인 무작위\n하수인 5마리를 내 덱에\n 섞어 넣습니다. 그 하수인들의\n 능력치가 2배가 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

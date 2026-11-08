@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편의 손에서 무작위 카드 2장을 집어삼킨 후, 2턴 동안 <b>휴면</b>합니다. <b>죽음의_메아리:</b>\n그 카드들을 돌려줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때, 내 하수인들에게 <b>천상의 보호막</b>을 부여합니다. 이미 천상의 보호막을 가지고 있던 하수인은 그 대신 +3/+3를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

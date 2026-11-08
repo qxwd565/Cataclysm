@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "소환 시 이번 턴에 내 영웅에게 공격력을 +{0} 부여합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>@소환 시 내 영웅에게 이번 턴에 공격력을 +{0} 부여합니다. <i>1회 <b>예고</b> 시 강화됩니다.</i>@소환 시 내 영웅에게 이번 턴에 공격력을 +{0} 부여합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

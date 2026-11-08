@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>천상의 보호막</b> 능력이 있는 {0} 은빛 성기사단 신병을 둘 소환합니다.",
-    "nativeTextBuilder": 46
+    "nativeTextBuilder": 46,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

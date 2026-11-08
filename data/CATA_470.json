@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 원하는 언데드 용족을 직접 만듭니다. 내 손에 용족이 있으면, 그 창조물의 비용이 (3) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

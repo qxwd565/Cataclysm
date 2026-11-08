@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "소환 시 다른 직업의 무작위 주문을 얻습니다. 그 주문의 비용이 ({0}) 감소합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>@소환 시 다른 직업의 무작위 주문을 얻습니다. 그 주문의 비용이 ({0}) 감소합니다. <i>1회 <b>예고</b> 시 강화됩니다.</i>@소환 시 다른 직업의 무작위 주문을 얻습니다. 그 주문의 비용이 ({0}) 감소합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

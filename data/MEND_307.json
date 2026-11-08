@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]미래의 내 동료 야수들을\n비용이 (2) 더 높은 무작위\n야수로 교체합니다.\n하나를 선택해 소환합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

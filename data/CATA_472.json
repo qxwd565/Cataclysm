@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 무작위 아군 하수인의 턴이 끝날 때 발동하는 효과를 발동시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 이 하수인을 <b>빙결</b>시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

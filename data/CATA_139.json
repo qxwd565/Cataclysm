@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>거수 +4</b>, 버들송곳니의 다리 하나가 능력치를 얻은 후,\n이 하수인도 그만큼 능력치를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

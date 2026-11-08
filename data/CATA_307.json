@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 남은 생명력을 15로 만듭니다. 내 생명력이 완전히 회복되면, 상대편에게 피해를 15 줍니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

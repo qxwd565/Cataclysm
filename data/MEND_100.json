@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 비용이 1인 무작위 주문을 셋 시전하는 비용이 3인 구근을 얻습니다. 구근은 매 턴마다 강화됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

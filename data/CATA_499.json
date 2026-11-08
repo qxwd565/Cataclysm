@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "이 주문을 내거나 버릴 때, 비용이 1인 무작위 하수인을 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

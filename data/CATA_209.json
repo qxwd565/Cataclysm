@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손에\n있는 주문을 선택하여 <b>주문 공격력 +1</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

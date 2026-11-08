@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]내 턴이 끝날 때,\n오른쪽에 있는 하수인을\n처치하고 +{0}/+{0}|1(을,를) 얻습니다.\n<i>2회 <b>예고</b> 시 강화됩니다.</i>@[x]내 턴이 끝날 때,\n오른쪽에 있는 하수인을 처치하고\n+{0}/+{0}|1(을,를) 얻습니다.\n<i>1회 <b>예고</b> 시 강화됩니다.</i>@[x]내 턴이 끝날 때,\n오른쪽에 있는 하수인을 처치하고\n+{0}/+{0}|1(을,를) 얻습니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

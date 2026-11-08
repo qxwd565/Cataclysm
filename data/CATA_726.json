@@ -114,7 +114,9 @@
       }
     ],
     "nativeRawText": "<b>거수 +2</b>, 내 팔과 병사들이 적의 덱에 있는 하수인들을 처치합니다.",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>:&\n비용이 4인 무작위 하수인을 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

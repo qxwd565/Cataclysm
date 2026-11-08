@@ -104,7 +104,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>, <b>전투의 함성:</b> {0}|1(을,를) <b>예고</b>합니다.",
-    "nativeTextBuilder": 43
+    "nativeTextBuilder": 43,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

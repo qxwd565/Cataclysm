@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b> 내가 이전 턴에 하수인을 내지 않았다면, 마나 수정을 3개 회복합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

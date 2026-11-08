@@ -131,7 +131,9 @@
       }
     ],
     "nativeRawText": "<b>거수 +2</b>, 내 턴이 끝날 때 내 하수인들의 <b>죽음의 메아리들</b>을 발동합니다.",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

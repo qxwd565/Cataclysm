@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성</b>:\n두 플레이어의 덱에서\n비용이 (2) 이하인 카드를\n모두 파괴합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

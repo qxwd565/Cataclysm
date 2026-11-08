@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b>\n적 하수인을 선택하여 생명력을 3 가져옵니다. 세 번 발동합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

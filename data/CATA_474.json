@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때,& 무작위 신성 주문을 얻습니다. 그 주문의 비용이 (3) 감소합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

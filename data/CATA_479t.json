@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]<b>조각</b>, 4/2 비룡을\n둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

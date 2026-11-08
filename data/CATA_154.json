@@ -126,7 +126,9 @@
       }
     ],
     "nativeRawText": "<b>거수 +2</b>\n다른 직업의 내 주문들이 두 번 시전됩니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

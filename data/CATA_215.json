@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "적 하수인을 주인의 손으로 돌려보냅니다.\n그 하수인은 다음 턴에\n낼 수 없습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

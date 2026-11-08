@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>죽음의 메아리</b>:& 이번 게임 동안 내 은빛 성기사단 신병들에게 공격력을 +1 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

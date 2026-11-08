@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 카드를 선택하여 내 덱에 섞어 넣습니다. 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

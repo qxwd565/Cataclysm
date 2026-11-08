@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>천상의 보호막</b>, <b>죽음의_메아리:</b> 크로마투스의 <b>천상의_보호막</b> 능력을 제거합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

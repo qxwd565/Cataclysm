@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>모면, 죽음의 메아리:</b> 이 하수인을 처치한 하수인을 얼굴 없는 복제자로 변신시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b> <i>(내 손에 있는 동안 용족을 내면 6/6 용족이 됩니다!)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

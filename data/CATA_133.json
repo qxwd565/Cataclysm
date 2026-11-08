@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>모면</b>, 내 턴이 끝날 때,& 내 다른 하수인들에게 +1/+1을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

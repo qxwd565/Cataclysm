@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 매 턴마다\n카드를 뽑지 않고, 그 대신\n내 덱에서 카드를 <b>발견</b>합니다.\n그 카드의 비용이 (3) 감소합니다.\n나머지 카드는 파괴됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

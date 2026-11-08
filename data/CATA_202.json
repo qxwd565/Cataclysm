@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "다른 직업의 무작위 <b>산산조각</b> 카드를 얻습니다. <i>(이미 합쳐져 있습니다.)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손 또는 전장에 있는 하수인에게 이 하수인의 공격력만큼 공격력을 부여합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

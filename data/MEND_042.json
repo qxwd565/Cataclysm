@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "모든 아군 캐릭터의 생명력을 #8 회복합니다. 비용이 8인 무작위 하수인을 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

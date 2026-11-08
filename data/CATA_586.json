@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "피해를 받고 살아남은 후에, 파괴의 불길을 소환합니다. <b>죽음의 메아리:</b> 무작위 적에게 피해를 2 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b>\n내 손에 있는 카드를 선택하여 동전으로 바꿉니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

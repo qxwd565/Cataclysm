@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "[x]<b>모면</b>, <b>죽음의 메아리:</b>\n크로마투스의 <b>모면</b>\n능력을 제거합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

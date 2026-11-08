@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "적 하수인의 생명력을 1로 만듭니다.\n내 손에 용족이 있으면, 하수인을 하나 더 고릅니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

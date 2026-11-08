@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 용족들이 이번\n게임 동안 <b>속공</b>을 얻습니다.\n<i>(내 손에 있는 동안 용족을 내면\n12/12 용족이 됩니다!)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

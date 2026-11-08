@@ -71,7 +71,9 @@
       }
     ],
     "nativeRawText": "이번 게임에서 내가 시전한 지옥 주문 하나당 비용이 (1)씩 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

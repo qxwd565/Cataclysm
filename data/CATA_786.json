@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "내가 주문을 시전한 후에, 다른 직업의 비용이 같은 무작위 주문을 시전합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

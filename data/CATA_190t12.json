@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "[x]모든 적 하수인에게\n피해를 4 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

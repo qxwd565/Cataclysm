@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> {0}|1(을,를) 시전합니다.",
-    "nativeTextBuilder": 23
+    "nativeTextBuilder": 23,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

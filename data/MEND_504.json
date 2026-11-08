@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 뽑습니다.\n그 카드의 비용이\n({0}) 감소합니다.@[x]카드를 {1}장 뽑습니다.\n그 카드들의 비용이\n({0}) 감소합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

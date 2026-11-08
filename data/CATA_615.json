@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "내 손에 있을 때, 손에 있는 다른 카드들의 비용이 모두 짝수거나 모두 홀수면, 6/5 늑대인간 왕으로 변신합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

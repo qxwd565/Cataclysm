@@ -72,7 +72,9 @@
       }
     ],
     "nativeRawText": "<b>천상의 보호막</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

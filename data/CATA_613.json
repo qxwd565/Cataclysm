@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "내 전장에 다른 하수인이 없을 때 <b>면역</b> 상태가 됩니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -117,7 +117,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, 이 하수인이 공격할 때마다,& 이 하수인의 공격력만큼 마나 수정을 회복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

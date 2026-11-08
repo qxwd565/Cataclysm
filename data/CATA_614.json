@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 직업의 주문을 <b>발견</b>합니다.\n<i>(매 턴 직업이 바뀝니다!)</i>@<b>전투의 함성:</b> {0} 주문을 <b>발견</b>합니다.\n<i>(매 턴 직업이 바뀝니다!)</i>",
-    "nativeTextBuilder": 42
+    "nativeTextBuilder": 42,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 동료 야수를 소환하는 내 카드들이 이번 게임 동안 1마리 더 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때, 이 하수인의 생명력이 최대면,& 생명력을 +3 얻습니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

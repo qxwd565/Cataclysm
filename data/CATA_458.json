@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>:& 내 손과 덱에 있는 모든 주문에 <b>주문 공격력 +1</b>을 부여합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

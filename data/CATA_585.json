@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]피해를 받은 하수인에게\n피해를 $@ 줍니다. 초과한\n피해량이 있으면 이 주문을\n손으로 다시 가져옵니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

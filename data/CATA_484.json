@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>:& 무작위 직업의 비용이 1인\n주문을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

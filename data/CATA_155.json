@@ -137,7 +137,9 @@
       }
     ],
     "nativeRawText": "<b>거수 +2</b>, 내 영웅이 내 턴에 생명력을 잃을 때마다, 생명력을 잃지 않고 그 대신 그만큼 최대 생명력을 얻습니다.",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

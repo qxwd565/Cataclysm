@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 2/2 나무정령을 셋 얻습니다. 그 나무정령들에게 마나의 합이 12인 자연 주문들을 새깁니다.",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

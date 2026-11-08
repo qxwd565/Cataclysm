@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "<b>교환성</b>, <b>전설</b> 하수인을 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

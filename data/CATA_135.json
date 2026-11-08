@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]1/2 골렘을 둘 소환합니다.\n 마나를 모두 소모하여\n소모한 만큼 그 골렘들에게\n+1/+1을 부여합니다. ",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

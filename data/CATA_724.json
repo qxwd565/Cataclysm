@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> <b>과부하</b>된 내 마나 수정이 모두 잠금 해제됩니다. <b>과부하:</b> (3)",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

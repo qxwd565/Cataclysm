@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "생명력이 가장 높은 적 하수인을 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

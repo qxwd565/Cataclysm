@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "비용이 {0}인 무작위 하수인을 소환합니다.@비용이 {0}인 무작위 하수인을 {1}번 소환합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>도발, 전투의 함성:</b> 미래의 내 동료 야수들을 비용이 (1) 더 높은 무작위 야수로 교체합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

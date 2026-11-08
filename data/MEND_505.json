@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "지맥 3개를 모두 얻습니다. 내 지맥들에 적용할 강화를 선택합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

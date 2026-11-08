@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 이번 게임에서\n내 지맥들이 한 번 더\n발동합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

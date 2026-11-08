@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>산산조각</b>\n피해를 $4 줍니다.\n모든 적에게 피해를\n$2 줍니다.@[x]피해를 $4 줍니다.\n모든 적에게 피해를\n$2 줍니다.",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]상대편의 가장 왼쪽과\n오른쪽에 있는 하수인에게\n피해를 $5 줍니다.\n<b>추방자:</b> 반복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

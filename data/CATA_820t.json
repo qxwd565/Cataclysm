@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>조각</b>, 하수인을 3마리 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:\n</b> {0}/{1} 새끼용을 소환합니다.\n<i>(내 턴이 시작될 때\n+1/+1을 얻습니다!) </i>",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

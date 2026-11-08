@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "모든 하수인에게 피해를 $1 줍니다. 이번 턴에 내 영웅에게 공격력을 +3 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

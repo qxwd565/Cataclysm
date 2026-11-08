@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 처음에 가지고\n시작한 하수인들의 비용 합계가\n100이었으면, 능력치 100을\n내 덱에 있는 하수인들에게\n나누어 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

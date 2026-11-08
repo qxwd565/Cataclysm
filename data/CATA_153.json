@@ -131,7 +131,9 @@
       }
     ],
     "nativeRawText": "[x]<b>거수 +2, <b>속공</b>, 질풍</b>\n<b>전투의 함성:</b> 이 하수인의\n공격력과 같은 비용의 하수인을\n둘 얻습니다. 그 하수인들의\n비용이 (1)이 됩니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]아군 야수에게 +2/+2를\n부여합니다. 내 손에 있는\n무작위 야수에게\n+2/+2를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-05-06",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

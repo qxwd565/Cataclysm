@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "카드를 2장 뽑습니다. 이번 게임에서 아군 캐릭터가 공격한 횟수 1회당 비용이 (1)씩 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-03-18",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],
