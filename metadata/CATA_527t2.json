@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_527t2",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-131_M.tif:65522ed5a1e6402da567244f899023be",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "내가 지옥 주문을 시전한 후에, <b>거수</b>가 아닌 무작위 나가를 얻습니다. 그 나가의 비용이 (1)이 됩니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Nespirah, Unshackled",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_527t2.png"
+      }
+    }
+  }
+}

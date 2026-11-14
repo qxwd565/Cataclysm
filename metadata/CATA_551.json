@@ -1,0 +1,82 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_551",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-027_M.tif:a3f8b1ab5bb441ab826c6aeb5a2fdbb7",
+        "flavor": "제가 모르는 비밀 용이 또 있나요?!",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 122868
+          }
+        ],
+        "nativeRawText": "<b>도발</b> <i>(내 손에 있는 동안 용족을 내면 6/6 용족이 됩니다!)</i>",
+        "nativeTextBuilder": 7,
+        "englishName": "Stonetalon Striker",
+        "root": true,
+        "relatedIds": [
+          122868
+        ],
+        "art": "art/CATA_551.png"
+      }
+    }
+  }
+}

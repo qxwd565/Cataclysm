@@ -1,0 +1,90 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_556",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-176_M.tif:6ec1347a04a445b2b40378f2559957d8",
+        "flavor": "아기 용들이 여기서 오는 거였군요...",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2355,
+            "name": "새끼용",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성</b>:& 비용이 (3) 이하인 무작위 용족을 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Carrier Whelp",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_556.png"
+      }
+    }
+  }
+}

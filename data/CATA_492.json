@@ -7,84 +7,9 @@
     "type": "LOCATION",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
-    "attack": 0,
-    "health": 2,
-    "armor": 0,
     "durability": 2,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-080_L.tif:7a30c6dcc40245f395f6e3f1919366ab",
-    "flavor": "초갈이 고대 신 굿즈를 보관하는 곳입니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      },
-      {
-        "id": 4309,
-        "name": "예고",
-        "value": 1
-      },
-      {
-        "id": 4538,
-        "name": "게임 태그 4538",
-        "value": 1
-      },
-      {
-        "id": 4632,
-        "name": "게임 태그 4632",
-        "value": 2
-      }
-    ],
-    "nativeRawText": "{0}|1(을,를) <b>예고</b>합니다. 카드를 뽑습니다.",
-    "nativeTextBuilder": 43,
-    "englishName": "Shrine of Twilight",
-    "root": true,
-    "relatedIds": [
-      127045,
-      125432,
-      125433,
-      125435
-    ],
-    "art": "art/CATA_492.png"
+    "collectible": true
   }
 }

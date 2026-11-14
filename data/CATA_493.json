@@ -7,69 +7,10 @@
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
     "attack": 2,
     "health": 2,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-168_M.tif:429b89e0740549a6ae8e2c87ae0aa93c",
-    "flavor": "아, 이러지 마요. 우리 다 지하 군주를 가질 순 없잖아요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>속공</b>, 이번 게임에서 내가 버린 카드의 수만큼 +2/+2를 얻습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Duke of Below",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_493.png"
+    "collectible": true
   }
 }

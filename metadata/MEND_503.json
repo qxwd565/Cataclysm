@@ -1,0 +1,79 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_503",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-115_M.tif:ef9fb4e683924dbd8706a069c56a29b1",
+        "flavor": "메스... 족집게... 폭풍 바늘... 폭풍 바늘이라니까!",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>전투의 함성:</b> 이번 게임에서\n내 지맥들이 한 번 더\n발동합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Surge Needle",
+        "root": true,
+        "relatedIds": [
+          123508,
+          123495,
+          123504
+        ],
+        "art": "art/MEND_503.png"
+      }
+    }
+  }
+}

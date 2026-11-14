@@ -7,74 +7,9 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "",
-    "race": "",
-    "races": [],
     "spellSchool": "ARCANE",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-148_S.tif:4d6cd898e65a481582df966fb331c9a0",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 3,
-        "name": "효과 수치 2",
-        "value": 123744
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 401,
-        "name": "특수 발광 효과",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      },
-      {
-        "id": 2889,
-        "name": "효과 수치 3",
-        "value": 123692
-      },
-      {
-        "id": 4240,
-        "name": "조각",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>조각</b>\n피해를 $4 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Arcane Flow",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/CATA_489t.png"
+    "collectible": false
   }
 }

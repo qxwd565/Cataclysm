@@ -7,88 +7,14 @@
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "EPIC",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 4,
     "attack": 4,
     "health": 5,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-022_M.tif:90d9bed9c8934ce8ab61b906bd27463b",
-    "flavor": "알을 보고 있으면 절대 부화하지 않습니다!",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 8
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> <b>도발</b> 능력이 있는\n3/3 새끼용을 둘 얻습니다.\n내 손에 있는 동안 마나를 8\n소모했으면 그 새끼용들을\n소환합니다. <i>({0} 남음!)</i>@[x]<b>전투의 함성:</b> <b>도발</b> 능력이 있는\n3/3 새끼용을 둘 얻습니다.\n내 손에 있는 동안 마나를 8\n소모했으면 그 새끼용들을\n소환합니다. <i>(준비 완료!)</i>@[x]<b>전투의 함성:</b> <b>도발</b> 능력이 있는\n3/3 새끼용을 둘 얻습니다.\n내 손에 있는 동안 마나를 8\n소모했으면 그 새끼용들을\n소환합니다.",
-    "nativeTextBuilder": 28,
-    "englishName": "Broodwatcher",
-    "root": true,
-    "relatedIds": [
-      122969
-    ],
-    "art": "art/CATA_132.png"
+    "collectible": true
   }
 }

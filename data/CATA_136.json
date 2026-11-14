@@ -7,64 +7,9 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
     "spellSchool": "ARCANE",
     "cost": 1,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-024_S.tif:5f36ba8546c34e06a3725f94b2c94520",
-    "flavor": "승리가 손에 잡히겠다 생각한 순간, 바다의 군주는 싸울 일이 있을 거라고 결코 생각하지 못한 적을 마주하고 있었습니다. 그녀가 백성을 더 아꼈다면 되었을지도 모를, 그런 영웅이었죠.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1508,
-        "name": "손의 카드 대상 지정",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]비용이 (8) 이상인 무작위\n하수인 5마리를 내 덱에\n 섞어 넣습니다. 그 하수인들의\n 능력치가 2배가 됩니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Azshara's Triumph",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_136.png"
+    "collectible": true
   }
 }

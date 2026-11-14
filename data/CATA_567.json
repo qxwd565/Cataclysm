@@ -7,59 +7,9 @@
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-165_S.tif:66841e09a6cd40d1bea476b58dcb29c9",
-    "flavor": "아제로스 표준시 오후 9시, 폭풍과 함께하는 승천무가 방송됩니다!",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "모든 아군 하수인을 비용이 (1) 높은 하수인으로 변신시킵니다. 이 하수인들은 죽을 때 원래의 하수인을 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Ascendance",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_567.png"
+    "collectible": true
   }
 }

@@ -1,0 +1,87 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_552",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-031_M.tif:71a5b10c1c614ef9a29fbf1fdf81199a",
+        "flavor": "내 용의 눈으로 꿰뚫어보니... 저녁거리가 보이는군요.",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 309,
+            "name": "게임 태그 309",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 122870
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 이 하수인의 공격력만큼 피해를 줍니다.\n<i>(내 손에 있는 동안 용족을 내면 8/8 용족이 됩니다!)</i>",
+        "nativeTextBuilder": 7,
+        "englishName": "Ebonscale Scout",
+        "root": true,
+        "relatedIds": [
+          122870
+        ],
+        "art": "art/CATA_552.png"
+      }
+    }
+  }
+}

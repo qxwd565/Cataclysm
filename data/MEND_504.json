@@ -7,74 +7,9 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "ARCANE",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-314_S.tif:71f0f91c1ffa4ff1ae06d8794c5dd02b",
-    "flavor": "전 가끔 바닥에 그냥 보라색 선을 그리고 지맥이라 하죠.",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 4285,
-        "name": "게임 태그 4285",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]카드를 뽑습니다.\n그 카드의 비용이\n({0}) 감소합니다.@[x]카드를 {1}장 뽑습니다.\n그 카드들의 비용이\n({0}) 감소합니다.",
-    "nativeTextBuilder": 28,
-    "englishName": "Leyline Nexus",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/MEND_504.png"
+    "collectible": true
   }
 }

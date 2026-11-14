@@ -1,0 +1,94 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_303",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-311_M.tif:2a339aa61fec4bc89f94a66923bd33d2",
+        "flavor": "확장팩이 몇 번 나올 때마다 무리 지어 평원을 가로지르며, 사냥꾼 메타가 되살아날 것을 예고합니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>도발, 전투의 함성:</b> 미래의 내 동료 야수들을 비용이 (1) 더 높은 무작위 야수로 교체합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Migrating Elekk",
+        "root": true,
+        "relatedIds": [
+          100,
+          226,
+          959
+        ],
+        "art": "art/MEND_303.png"
+      }
+    }
+  }
+}

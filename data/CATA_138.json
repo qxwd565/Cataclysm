@@ -7,59 +7,9 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-141_S.tif:4fbdf46a31284b819c4bd02c8d2158ce",
-    "flavor": "드루이드들은 한 끔찍한 도서관에서 이것을 배웠습니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "[x]아군 하수인에게 내 전장에\n있는 하수인의 수만큼\n+1/+1을 부여합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Forest's Gift",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_138.png"
+    "collectible": true
   }
 }

@@ -1,0 +1,97 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_553",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-035_M.tif:eea867978dda41d5be44b956de9e6675",
+        "flavor": "이름이 뭐냐고요? 앗, 어... 그게... 엡... 온혼입니다. 네, 에본혼이에요.",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 122872
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>전투의 함성:</b> 내 용족들이 이번\n게임 동안 <b>속공</b>을 얻습니다.\n<i>(내 손에 있는 동안 용족을 내면\n12/12 용족이 됩니다!)</i>",
+        "nativeTextBuilder": 7,
+        "englishName": "Ebyssian",
+        "root": true,
+        "relatedIds": [
+          122872
+        ],
+        "art": "art/CATA_553.png"
+      }
+    }
+  }
+}

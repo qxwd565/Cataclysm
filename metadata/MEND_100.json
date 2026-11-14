@@ -1,0 +1,82 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_100",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-325_M.tif:e4c6516d5e9346bcbb9f25be5cba2ca5",
+        "flavor": "크랜베리 가꾸기의 전문가입니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 비용이 1인 무작위 주문을 셋 시전하는 비용이 3인 구근을 얻습니다. 구근은 매 턴마다 강화됩니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Cultivating Sprite",
+        "root": true,
+        "relatedIds": [
+          123854
+        ],
+        "art": "art/MEND_100.png"
+      }
+    }
+  }
+}

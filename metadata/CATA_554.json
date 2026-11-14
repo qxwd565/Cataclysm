@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_554",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-145_S.tif:86e8744365024c0c8d888c8f98a5882d",
+        "flavor": "\"바위!!!!!!!\"",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "적 하수인의 생명력을 1로 만듭니다.\n내 손에 용족이 있으면, 하수인을 하나 더 고릅니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Earthen Roar",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_554.png"
+      }
+    }
+  }
+}

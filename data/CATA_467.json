@@ -7,79 +7,10 @@
     "type": "WEAPON",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
     "attack": 2,
-    "health": 0,
-    "armor": 0,
     "durability": 2,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-125_W.tif:8f2c34a9e8b346a1b7daaa3d8733ee59",
-    "flavor": "Cmd + Claw + Delete",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2198,
-        "name": "부정 룬",
-        "value": 1
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]내 영웅이 공격한 후에,\n무작위 아군 하수인에게\n공격력을 +2\n부여합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Command Claw",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_467.png"
+    "collectible": true
   }
 }

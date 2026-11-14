@@ -7,54 +7,9 @@
     "type": "SPELL",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "",
-    "race": "",
-    "races": [],
     "spellSchool": "FROST",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-002_S.tif:7e264b71ae9947068d58e9ba2933df85",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 3
-      }
-    ],
-    "nativeRawText": "피해를 $@ 줍니다.",
-    "nativeTextBuilder": 7,
-    "englishName": "Dragon Breath",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/CATA_464t.png"
+    "collectible": false
   }
 }

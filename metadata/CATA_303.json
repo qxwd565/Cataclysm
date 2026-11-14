@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_303",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-161_S.tif:f5b3fcacb65746d093655a8df74040f7",
+        "flavor": "아무 잘못도 없는 구경꾼이 총격전에 휘말려 비극적으로 치유되었습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          }
+        ],
+        "nativeRawText": "하수인에게 피해를 $5 줍니다. 이 피해로 대상이 죽으면, 적 영웅의 생명력을 #5 회복시킵니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Purifying Breath",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_303.png"
+      }
+    }
+  }
+}

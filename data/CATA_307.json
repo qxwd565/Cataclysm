@@ -7,101 +7,14 @@
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "LEGENDARY",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 7,
     "attack": 8,
     "health": 8,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-056_M.tif:3541a0d9f96e41bda34cd56857042589",
-    "flavor": "\"내가 이 세상에 생명을 가져왔으니, 다시 가져갈 수도 있다!\"",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 7
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 251,
-        "name": "게임 태그 251",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1508,
-        "name": "손의 카드 대상 지정",
-        "value": 1
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      },
-      {
-        "id": 1932,
-        "name": "다이아몬드 카드 존재",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 내 남은 생명력을 15로 만듭니다. 내 생명력이 완전히 회복되면, 상대편에게 피해를 15 줍니다.",
-    "nativeTextBuilder": 7,
-    "englishName": "Alexstrasza, Guardian of Life",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_307.png"
+    "collectible": true
   }
 }

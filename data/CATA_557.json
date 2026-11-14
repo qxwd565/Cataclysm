@@ -7,59 +7,8 @@
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-029_S.tif:05ccc8ebe2d844ca8c11ac7530797119",
-    "flavor": "그녀의 미래는 아직 적히지 않았습니다. 지금으로서, 이 실바나스는 자매들과 나란히 아제로스를 지키기 위해 용맹스럽게 싸웁니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2433,
-        "name": "게임 태그 2433",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "피해를 $3 줍니다. 내가 이것과 동일한 주문을 시전했다면 모든 적에게 피해를 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Sylvanas's Triumph",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_557.png"
+    "collectible": true
   }
 }

@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_300t2",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-055_M2.tif:0a4c486543964196a5be4cf7e3d6a27c",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 2248,
+            "name": "거수 부속",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 턴이 끝날 때, 피해를 받은 무작위 아군 캐릭터의 생명력을 #3 회복시킵니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Black Blood's Body",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_300t2.png"
+      }
+    }
+  }
+}

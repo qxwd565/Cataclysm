@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_139t2",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-025_M2.tif:724aeb0d76664f1394a7b3a78e39507f",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 2248,
+            "name": "거수 부속",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 턴이 끝날 때 +1/+1을 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Wickerfang's Leg",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_139t2.png"
+      }
+    }
+  }
+}

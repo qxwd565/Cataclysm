@@ -7,81 +7,14 @@
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "COMMON",
     "race": "야수",
     "races": [
       "BEAST"
     ],
-    "spellSchool": "",
     "cost": 9,
     "attack": 8,
     "health": 8,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-013_M.tif:4148d71d545c40f6817ba4cbf55a4ebd",
-    "flavor": "하지만 거대괴수는 전통적으로 전혀 무섭지 않은데요!",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 9
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b>\n적 하수인을 선택하여 생명력을 3 가져옵니다. 세 번 발동합니다.",
-    "nativeTextBuilder": 7,
-    "englishName": "Dread Leviathan",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_699.png"
+    "collectible": true
   }
 }

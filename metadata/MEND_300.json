@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_300",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-307_S.tif:8e892fca37ed463cb01466977f03bb33",
+        "flavor": "마침내, 킁킁이가 나오지 않습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]미래의 내 동료 야수들을\n비용이 (1) 더 높은 무작위\n야수로 교체합니다.\n카드를 뽑습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Tame Pet",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/MEND_300.png"
+      }
+    }
+  }
+}

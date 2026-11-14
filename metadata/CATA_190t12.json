@@ -1,0 +1,50 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_190t12",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-190_S.tif:6cd0c119be3b4936ba64d9d123815163",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 349,
+            "name": "게임 태그 349",
+            "value": 1
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]모든 적 하수인에게\n피해를 4 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Raze",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_190t12.png"
+      }
+    }
+  }
+}

@@ -7,64 +7,9 @@
     "type": "SPELL",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "HOLY",
     "cost": 1,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-052_S.tif:3c8a6e0454f34daba6df9cd6e386f7f9",
-    "flavor": "괜찮아, 괜찮아. 엄마한테는 말하지 마.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]하수인의 생명력을\n모두 회복시킵니다.\n카드를 뽑습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Mend",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_302.png"
+    "collectible": true
   }
 }

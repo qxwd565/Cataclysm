@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_151t1",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-019_M2.tif:a2a49a02002f4a779d173a126f1cbe02",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 92
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2248,
+            "name": "거수 부속",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "소환 시 이번 턴에 내 영웅에게 공격력을 +{0} 부여합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>@소환 시 내 영웅에게 이번 턴에 공격력을 +{0} 부여합니다. <i>1회 <b>예고</b> 시 강화됩니다.</i>@소환 시 내 영웅에게 이번 턴에 공격력을 +{0} 부여합니다.",
+        "nativeTextBuilder": 28,
+        "englishName": "Azshara's Tentacle",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_151t1.png"
+      }
+    }
+  }
+}

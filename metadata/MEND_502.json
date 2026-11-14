@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_502",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-116_S.tif:ba5ea36dc18d4a2dbf206068091efe0f",
+        "flavor": "이 결정에는 치유 효능이 있습니다... 그리고 이 결정은 하수인 군대를 소환합니다.",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 4285,
+            "name": "게임 태그 4285",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "비용이 {0}인 무작위 하수인을 소환합니다.@비용이 {0}인 무작위 하수인을 {1}번 소환합니다.",
+        "nativeTextBuilder": 28,
+        "englishName": "Crystallized Leyline",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/MEND_502.png"
+      }
+    }
+  }
+}

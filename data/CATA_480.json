@@ -7,89 +7,9 @@
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "HOLY",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-044_S.tif:8fa44b1ee8d04215ab12cd2f3a135f55",
-    "flavor": "모래가 손목시계에 끼면 항상 시간의 흐름이 엉망이 되죠.",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 535,
-        "name": "퀘스트 완료 조건",
-        "value": 3
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      },
-      {
-        "id": 2311,
-        "name": "목표",
-        "value": 1
-      },
-      {
-        "id": 3429,
-        "name": "성기사 오라",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내 하수인들의 턴이 끝날 때 발동하는 효과가 2번 발동합니다. @턴 지속됩니다.",
-    "nativeTextBuilder": 7,
-    "englishName": "Sandfury Aura",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_480.png"
+    "collectible": true
   }
 }

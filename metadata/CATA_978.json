@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_978",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-040_S.tif:014655d76cff45a19327201bd7ac36ee",
+        "flavor": "신드라고사가 사랑하는 이와 함께 싸우면, 그 무엇도 그 앞을 막을 수 없습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 349,
+            "name": "게임 태그 349",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "하수인에게 피해를 $8 줍니다. 초과한 피해량만큼 내 손에 있는 무작위 카드의 비용이 감소합니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Sindragosa's Triumph",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_978.png"
+      }
+    }
+  }
+}

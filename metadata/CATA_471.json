@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_471",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-006_S.tif:9f762cdeeab14704b2c77f81a467adc8",
+        "flavor": "탈란지와 브원삼디의 관계는 쉽지도 않았고, 단순하지도 않았습니다. 하지만 잔달라를 이끌고 데스윙의 군세에 맞서 싸울 때가 왔을 때, 둘은 나란히 싸웠습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2198,
+            "name": "부정 룬",
+            "value": 2
+          }
+        ],
+        "nativeRawText": "내 하수인들에게 \"<b>죽음의 메아리:</b> 비용이 4인 무작위 하수인을 소환함\" 능력을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Talanji's Last Stand",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_471.png"
+      }
+    }
+  }
+}

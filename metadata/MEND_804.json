@@ -1,0 +1,92 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_804",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-324_M.tif:1c72ad6de7944e0883975349a4865b58",
+        "flavor": "참 활기찬 친구네요! 이건 무슨 일이 있어도 변하지 않을 겁니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 모든 아군 은빛 성기사단 신병의 능력치를 2배로 만들고 <b>도발</b>을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Arator the Redeemer",
+        "root": true,
+        "relatedIds": [
+          1652
+        ],
+        "art": "art/MEND_804.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_043",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-303_S.tif:8518571713774c2b9e37e09048d3ff3b",
+        "flavor": "하트루트스톤: 숲크래프트의 영웅들",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]카드를 뽑고 방어도를\n3 얻습니다. 내가 이전\n턴에 하수인을 내지\n않았다면, 반복합니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Heartroot Stones",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/MEND_043.png"
+      }
+    }
+  }
+}

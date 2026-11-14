@@ -1,0 +1,88 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_046",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-306_M.tif:d1db8d2623ea4336910782ac5c203b2d",
+        "flavor": "\"누가 내 토템에 이름을 새겨서 망가뜨렸어?!\"",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 2/2 나무정령을 셋 얻습니다. 그 나무정령들에게 마나의 합이 12인 자연 주문들을 새깁니다.",
+        "nativeTextBuilder": 26,
+        "englishName": "Bashana Runetotem",
+        "root": true,
+        "relatedIds": [
+          126886,
+          130722
+        ],
+        "art": "art/MEND_046.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_720",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-184_M.tif:501764ba75ea42d3b62cd999ae6f06bb",
+        "flavor": "마침내 전투대장 블랙혼을 쓰러뜨리는 용감한 전사에게는 이 땅에서 가장 명망 높은 칭호가 주어질 것입니다. 바로 '소를 넘어뜨리는 자'라는 칭호죠.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>전투의 함성</b>:\n두 플레이어의 덱에서\n비용이 (2) 이하인 카드를\n모두 파괴합니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Warmaster Blackhorn",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_720.png"
+      }
+    }
+  }
+}

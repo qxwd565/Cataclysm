@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_464t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-002_S.tif:7e264b71ae9947068d58e9ba2933df85",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          }
+        ],
+        "nativeRawText": "피해를 $@ 줍니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Dragon Breath",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_464t.png"
+      }
+    }
+  }
+}

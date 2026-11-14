@@ -7,93 +7,9 @@
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
     "spellSchool": "HOLY",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-153_S.tif:7d54f05af4c94449bc96f0677d9fc032",
-    "flavor": "우선 A 구역에서 C 구역까지 탑승시킨 후 이륙하고, 재미로 공항을 빙빙 돈 다음에 다시 착륙해서 이코노미를 탑승시킬 겁니다.",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 123141
-      },
-      {
-        "id": 3,
-        "name": "효과 수치 2",
-        "value": 123142
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 194,
-        "name": "천상의 보호막",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1544,
-        "name": "게임 태그 1544",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      },
-      {
-        "id": 4239,
-        "name": "산산조각",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]<b>산산조각</b>, 4/2 비룡을 둘\n소환합니다. 내 하수인들에게\n공격력 +1과 <b>천상의 보호막</b>을\n부여합니다.@[x]4/2 비룡을 둘 소환합니다.\n내 하수인들에게 공격력 +1과\n<b>천상의 보호막</b>을 부여합니다.",
-    "nativeTextBuilder": 6,
-    "englishName": "Flight Maneuvers",
-    "root": true,
-    "relatedIds": [
-      123141,
-      123142,
-      123140
-    ],
-    "art": "art/CATA_479.png"
+    "collectible": true
   }
 }

@@ -7,54 +7,9 @@
     "type": "SPELL",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-326_S.tif:f517c1edf3e3412cb3e9ddfc4ba5de98",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "비용이 @인 무작위 주문을\n셋 시전합니다.\n<i>(매 턴마다 강화됩니다!)</i>",
-    "nativeTextBuilder": 7,
-    "englishName": "Blooming Bulb",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/MEND_100t.png"
+    "collectible": false
   }
 }

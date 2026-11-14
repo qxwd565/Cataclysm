@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_820t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-143_S.tif:13f7e46da53642beaea4200fd13e6cc9",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 3,
+            "name": "효과 수치 2",
+            "value": 121760
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 401,
+            "name": "특수 발광 효과",
+            "value": 1
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2889,
+            "name": "효과 수치 3",
+            "value": 121757
+          },
+          {
+            "id": 4240,
+            "name": "조각",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>조각</b>, 하수인을 3마리 뽑습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Supply Run",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_820t.png"
+      }
+    }
+  }
+}

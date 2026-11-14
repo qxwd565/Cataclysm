@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_215",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-164_S.tif:e86b7c3df3e343119128fe72c623968c",
+        "flavor": "약한 것.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ],
+        "nativeRawText": "적 하수인을 주인의 손으로 돌려보냅니다.\n그 하수인은 다음 턴에\n낼 수 없습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Daze",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_215.png"
+      }
+    }
+  }
+}

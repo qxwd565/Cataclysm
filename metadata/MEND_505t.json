@@ -1,0 +1,45 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_505t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-315_S.tif:53ab9ff103c04d8b9a64f1fe7ddf0e59",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "이번 게임에서 내 지맥들이 한 번 더 발동합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Energize",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/MEND_505t.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_726t1",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-082_M2.tif:d8a0d82b56da4ddeb5ad87193ff49e91",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 2
+          },
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2248,
+            "name": "거수 부속",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]내 턴이 끝날 때,\n오른쪽에 있는 하수인을\n처치하고 +{0}/+{0}|1(을,를) 얻습니다.\n<i>2회 <b>예고</b> 시 강화됩니다.</i>@[x]내 턴이 끝날 때,\n오른쪽에 있는 하수인을 처치하고\n+{0}/+{0}|1(을,를) 얻습니다.\n<i>1회 <b>예고</b> 시 강화됩니다.</i>@[x]내 턴이 끝날 때,\n오른쪽에 있는 하수인을 처치하고\n+{0}/+{0}|1(을,를) 얻습니다.",
+        "nativeTextBuilder": 28,
+        "englishName": "Gall's Arm",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_726t1.png"
+      }
+    }
+  }
+}

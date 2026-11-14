@@ -7,66 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 2,
     "attack": 2,
     "health": 1,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-094_M.tif:cb55e347183c4ffea2f72ed7bc65e7e0",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 2355,
-        "name": "새끼용",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "",
-    "nativeTextBuilder": 0,
-    "englishName": "Accelerated Whelp",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/CATA_210t.png"
+    "collectible": false
   }
 }

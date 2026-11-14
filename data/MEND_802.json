@@ -7,71 +7,9 @@
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "HOLY",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-319_S.tif:36d6a113ad2e4b8cb13e7b04769938b4",
-    "flavor": "빨리 나으세요.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 194,
-        "name": "천상의 보호막",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>천상의 보호막</b> 능력이 있는 {0} 은빛 성기사단 신병을 둘 소환합니다.",
-    "nativeTextBuilder": 46,
-    "englishName": "Convalescence",
-    "root": true,
-    "relatedIds": [
-      1652
-    ],
-    "art": "art/MEND_802.png"
+    "collectible": true
   }
 }

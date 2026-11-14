@@ -1,0 +1,115 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_469",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-007_M.tif:f8dc6a6883ec4869a72aa7460fe3de6c",
+        "flavor": "저항 방어구를 몽땅 가져오세요.",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          },
+          {
+            "id": 2197,
+            "name": "냉기 룬",
+            "value": 1
+          },
+          {
+            "id": 2198,
+            "name": "부정 룬",
+            "value": 1
+          },
+          {
+            "id": 2534,
+            "name": "게임 태그 2534",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          },
+          {
+            "id": 4578,
+            "name": "게임 태그 4578",
+            "value": 1
+          },
+          {
+            "id": 4975,
+            "name": "게임 태그 4975",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>속공</b>, 이 하수인이 공격할 때마다,& 이 하수인의 공격력만큼 마나 수정을 회복합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Chromatic Broodmother",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_469.png"
+      }
+    }
+  }
+}

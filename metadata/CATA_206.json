@@ -1,0 +1,100 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_206",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-175_M.tif:8997d562eedd44e09ef5a2ef90fffe92",
+        "flavor": "머리 하나가 식중독에 걸리면 나머지 하나도 걸립니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1211,
+            "name": "모면",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 2934,
+            "name": "추가 효과",
+            "value": 1
+          },
+          {
+            "id": 4161,
+            "name": "동적 키워드 1",
+            "value": 1211
+          },
+          {
+            "id": 4162,
+            "name": "동적 키워드 2",
+            "value": 190
+          }
+        ],
+        "nativeRawText": "<b>{0}, {1}</b>\n이 하수인은 내 손에 있으면 내 턴마다 <b>추가 효과</b>가 두 개의 무작위 효과 사이에서 바뀝니다.",
+        "nativeTextBuilder": 41,
+        "englishName": "Twisted Monstrosity",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_206.png"
+      }
+    }
+  }
+}

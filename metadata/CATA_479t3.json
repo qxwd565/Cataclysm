@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_479t3",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-156_M.tif:7996aa4592a84b569428b96c9a2ee0ed",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "",
+        "nativeTextBuilder": 0,
+        "englishName": "Sky Drake",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_479t3.png"
+      }
+    }
+  }
+}

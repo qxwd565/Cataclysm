@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_565t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-223_M.tif:01e5a050213f45d7a9b87a3b0c29f985",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 18
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 362,
+            "name": "지속 효과",
+            "value": 1
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "양옆의 하수인들이 공격력을 +{0} 얻습니다. <i>2회 <b>예고</b> 시 강화됩니다.</i>@양옆의 하수인들이 공격력을 +{0} 얻습니다. <i>1회 <b>예고</b> 시 강화됩니다.</i>@양옆의 하수인들이 공격력을 +{0} 얻습니다.",
+        "nativeTextBuilder": 28,
+        "englishName": "Soldier of Al'Akir",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_565t.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_190t11",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-189_S.tif:6c2d26465590473e9c417daff747f49e",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "생명력이 가장 높은 적 하수인을 처치합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Topple",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_190t11.png"
+      }
+    }
+  }
+}

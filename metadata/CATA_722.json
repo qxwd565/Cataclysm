@@ -1,0 +1,125 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_722",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-099_M.tif:4756ba6da6fb4c28bb45dd02bf4bcb43",
+        "flavor": "위상들은 천신만고 끝에 여기까지 왔습니다. 하지만 끝에는, 그건 전혀 의미가 없었죠.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 9153
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 4309,
+            "name": "예고",
+            "value": 1
+          },
+          {
+            "id": 4538,
+            "name": "게임 태그 4538",
+            "value": 1
+          },
+          {
+            "id": 4632,
+            "name": "게임 태그 4632",
+            "value": 2
+          }
+        ],
+        "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b>\n{0}|1(을,를) <b>예고</b>합니다.",
+        "nativeTextBuilder": 43,
+        "englishName": "Envoy of the End",
+        "root": true,
+        "relatedIds": [
+          126983,
+          124138,
+          126995,
+          124116,
+          127003,
+          125450,
+          127071,
+          125442,
+          127045,
+          125432,
+          127082,
+          124110,
+          124139,
+          125416,
+          124108,
+          125413,
+          125451,
+          125503,
+          125443,
+          127053,
+          125433,
+          125435,
+          124113,
+          125412
+        ],
+        "art": "art/CATA_722.png"
+      }
+    }
+  }
+}

@@ -7,74 +7,9 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-138_S.tif:053e4ead11a14392a0160114686aa5a8",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 3,
-        "name": "효과 수치 2",
-        "value": 122973
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 401,
-        "name": "특수 발광 효과",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      },
-      {
-        "id": 2889,
-        "name": "효과 수치 3",
-        "value": 122971
-      },
-      {
-        "id": 4240,
-        "name": "조각",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>조각</b>, 2/2 나무정령을 둘 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Wildwood Circle",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/CATA_134t.png"
+    "collectible": false
   }
 }

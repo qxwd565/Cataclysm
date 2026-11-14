@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_529",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-017_M.tif:74da11deb3c44894b06e6c6d2a5073c8",
+        "flavor": "안녕하십니까. 전 진아즈샤리 왕자인데, 최근 형편이 좋지 않아 진아즈샤리에 있는 50,000,000골드를 완전히 합법적인 사유로 버섯구름 봉우리에 있는 보안 계좌로 송금해야 하는 처지입니다. 도와주신다면 후하게 사례하겠습니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 92
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "이번 게임에서 내가 시전한 지옥 주문 하나당 비용이 (1)씩 감소합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Ravenous Felfisher",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_529.png"
+      }
+    }
+  }
+}

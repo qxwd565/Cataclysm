@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_979",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-122_M.tif:55bf726449eb4c23816119b206fc5fe8",
+        "flavor": "전문가라는 말은, 주문을 하나밖에 모른다는 것을 아주 정중하게 표현한 것입니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1508,
+            "name": "손의 카드 대상 지정",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 주문을 선택합니다. 그 주문을 비용이 같은 무작위 주문 둘로 나눕니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Conjuration Specialist",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_979.png"
+      }
+    }
+  }
+}

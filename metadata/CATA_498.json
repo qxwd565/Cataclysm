@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_498",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-078_S.tif:bb9e5bb6523e42efa3f83093e723f1f5",
+        "flavor": "누구도 라팜이 받을 관심을 가로챌 수는 없습니다. 자칭 신이라고 해도 마찬가지입니다.",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]무작위 적 하수인 둘에게\n 피해를 $@ 줍니다.\n<i>(내 턴마다 강화됩니다!)</i>",
+        "nativeTextBuilder": 7,
+        "englishName": "Rafaams' Last Stand",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_498.png"
+      }
+    }
+  }
+}

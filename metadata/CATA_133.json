@@ -1,0 +1,90 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_133",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-136_M.tif:a42f337af39346719fdc025e4efbc977",
+        "flavor": "팔랑날개를 따라가아라아아!",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1211,
+            "name": "모면",
+            "value": 1
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          },
+          {
+            "id": 4577,
+            "name": "게임 태그 4577",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>모면</b>, 내 턴이 끝날 때,& 내 다른 하수인들에게 +1/+1을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Iridescent Flitterwing",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_133.png"
+      }
+    }
+  }
+}

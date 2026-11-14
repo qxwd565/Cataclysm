@@ -1,0 +1,92 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_478",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-047_M.tif:d5f037fa16c3459bbf541046125e673f",
+        "flavor": "성기사들은 최고급 태닝 제품만 사용해 청동빛 피부를 만듭니다.",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 126052
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          },
+          {
+            "id": 4548,
+            "name": "게임 태그 4548",
+            "value": 1
+          },
+          {
+            "id": 4577,
+            "name": "게임 태그 4577",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 턴이 끝날 때,& 이 하수인과 능력치가 같은 용족을 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Bronze Redeemer",
+        "root": true,
+        "relatedIds": [
+          126052
+        ],
+        "art": "art/CATA_478.png"
+      }
+    }
+  }
+}

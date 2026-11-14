@@ -7,61 +7,8 @@
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-322_S.tif:755c906b632b41b484e7e3fe34d03807",
-    "flavor": "아아, 네. 저도 그러면 좋겠네요.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "{0} 은빛 성기사단 신병을 4명 소환하고 얻습니다.",
-    "nativeTextBuilder": 46,
-    "englishName": "Teamwork",
-    "root": true,
-    "relatedIds": [
-      1652
-    ],
-    "art": "art/MEND_900.png"
+    "collectible": true
   }
 }

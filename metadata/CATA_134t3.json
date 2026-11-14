@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_134t3",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-140_M.tif:44d00a75c6ff4f21b64fdb3f5b74e120",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 2831,
+            "name": "게임 태그 2831",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "",
+        "nativeTextBuilder": 0,
+        "englishName": "Treant",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_134t3.png"
+      }
+    }
+  }
+}

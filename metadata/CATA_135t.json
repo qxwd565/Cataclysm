@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_135t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-021_M.tif:5214cd71e7c243d987cf80f6946c70a6",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "",
+        "nativeTextBuilder": 0,
+        "englishName": "Moss Golem",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_135t.png"
+      }
+    }
+  }
+}

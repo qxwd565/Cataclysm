@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_135",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-020_S.tif:7406a990a472409cb9a66d6f71bed486",
+        "flavor": "이끼에 당했습니다!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "[x]1/2 골렘을 둘 소환합니다.\n 마나를 모두 소모하여\n소모한 만큼 그 골렘들에게\n+1/+1을 부여합니다. ",
+        "nativeTextBuilder": 0,
+        "englishName": "Mossbinding",
+        "root": true,
+        "relatedIds": [
+          122974
+        ],
+        "art": "art/CATA_135.png"
+      }
+    }
+  }
+}

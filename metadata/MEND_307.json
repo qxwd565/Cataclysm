@@ -1,0 +1,69 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_307",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-312_S.tif:1c470e4c7006404a9330e9540c34bca1",
+        "flavor": "나는... 자유롭게 뛰어놀고 싶어!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]미래의 내 동료 야수들을\n비용이 (2) 더 높은 무작위\n야수로 교체합니다.\n하나를 선택해 소환합니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Roam Free",
+        "root": true,
+        "relatedIds": [
+          100,
+          226,
+          959
+        ],
+        "art": "art/MEND_307.png"
+      }
+    }
+  }
+}

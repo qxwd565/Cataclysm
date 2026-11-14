@@ -1,0 +1,45 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_190t13",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-191_S.tif:31dac6acbdb643a0ac340573f0b8af35",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "무작위 <b>전설</b> 용족 다섯을 내 덱에 섞어 넣습니다. 그 용족들의 비용이 (1)이 됩니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Enthrall",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/CATA_190t13.png"
+      }
+    }
+  }
+}

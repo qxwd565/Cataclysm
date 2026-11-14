@@ -1,0 +1,107 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_464",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-001_M.tif:e91e266266c3407b8f9c84f7296ff5e3",
+        "flavor": "냉기 숨결을 뿜으면 이런 느낌입니다. 냉기 숨결: 네 감각을 얼려라!",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 122754
+          },
+          {
+            "id": 2197,
+            "name": "냉기 룬",
+            "value": 1
+          },
+          {
+            "id": 2355,
+            "name": "새끼용",
+            "value": 1
+          },
+          {
+            "id": 2534,
+            "name": "게임 태그 2534",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>죽음의 메아리</b>:& 이 하수인의 공격력만큼 피해를 주는 비용이 2인 주문을 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Blackwing Experiment",
+        "root": true,
+        "relatedIds": [
+          122754
+        ],
+        "art": "art/CATA_464.png"
+      }
+    }
+  }
+}

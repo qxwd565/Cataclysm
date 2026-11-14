@@ -1,0 +1,83 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_306t1",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-158_S.tif:2d9efd4958184935a56a2c29290d54f8",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 3,
+            "name": "효과 수치 2",
+            "value": 122877
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 401,
+            "name": "특수 발광 효과",
+            "value": 1
+          },
+          {
+            "id": 1211,
+            "name": "모면",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2889,
+            "name": "효과 수치 3",
+            "value": 122874
+          },
+          {
+            "id": 4240,
+            "name": "조각",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>조각</b>, 아군 하수인에게 +2/+3과 <b>모면</b>을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Schism",
+        "root": false,
+        "relatedIds": [
+          122876,
+          122877
+        ],
+        "art": "art/CATA_306t1.png"
+      }
+    }
+  }
+}

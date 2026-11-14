@@ -7,64 +7,9 @@
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 9,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-069_S.tif:49d7de262a724049b773845805bb80a4",
-    "flavor": "무라딘은 결국 알아키르의 정령들에게 폭풍을 호령하는 것이 누구인지 보여 주었습니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 9
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "카드를 2장 뽑습니다. 이번 게임에서 아군 캐릭터가 공격한 횟수 1회당 비용이 (1)씩 감소합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Muradin's Last Stand",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_568.png"
+    "collectible": true
   }
 }

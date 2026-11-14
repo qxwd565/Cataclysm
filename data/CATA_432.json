@@ -7,121 +7,14 @@
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "LEGENDARY",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 8,
     "attack": 8,
     "health": 8,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-050_M.tif:3b122358c767456ba08bd73ac9360e21",
-    "flavor": "우리 시간선에서 네파리우스는 다섯 용군단의 힘을 지닌 궁극의 용을 탄생시키겠다는 꿈을 끝내 이루지 못했습니다. 하지만 무르도즈노는 그가 그 꿈을 이룬 시간선을 찾아냈죠.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 194,
-        "name": "천상의 보호막",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 1078,
-        "name": "마우스를 올리면 카드 표시",
-        "value": 122402
-      },
-      {
-        "id": 1211,
-        "name": "모면",
-        "value": 1
-      },
-      {
-        "id": 1544,
-        "name": "게임 태그 1544",
-        "value": 1
-      },
-      {
-        "id": 2247,
-        "name": "거수",
-        "value": 1
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>거수 +4</b>, <b>도발</b>, <b>생명력_흡수</b>, <b>모면</b>, <b>천상의 보호막</b>",
-    "nativeTextBuilder": 0,
-    "englishName": "Chromatus",
-    "root": true,
-    "relatedIds": [
-      122402,
-      122405,
-      122407,
-      122410
-    ],
-    "art": "art/CATA_432.png"
+    "collectible": true
   }
 }

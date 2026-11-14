@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MEND_805",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-05-06",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-05-06": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-323_S.tif:40b27f85ef6c44b29568af33a2e2fe71",
+        "flavor": "이 하수인들을 기부하겠습니다... 저에게요!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "이번 턴에 죽은 모든 아군 하수인을 복사하여 얻습니다. 그 하수인들에게 +3/+3을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Charity",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/MEND_805.png"
+      }
+    }
+  }
+}

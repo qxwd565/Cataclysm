@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_560",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-146_S.tif:6b3a072cb7dc451f8abae8c502007ed5",
+        "flavor": "조심하는 게 좋을 거다. 안 그러면 내가 내 작은 군대를 풀 것이니!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "이번 게임에서 내가 낸 비용이 1인 하수인들을 각각 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Confront the Tol'vir",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CATA_560.png"
+      }
+    }
+  }
+}

@@ -7,54 +7,8 @@
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "classes": [],
-    "nativeSetId": 1980,
-    "set": "CATACLYSM",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-015_S.tif:d41bb19b8ee3429a971ddcd294bf39e0",
-    "flavor": "아즈샤라는 어둠의 해안의 방어군을 제압하는 데 문제가 없을 거라 생각했습니다. 하지만 최후의 항전은 어느 시간선에서나 브록시가의 특기죠.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>모든</b> 하수인에게 피해를 $1 줍니다. 그중 죽은 하수인의 수만큼 카드를 뽑습니다.",
-    "nativeTextBuilder": 7,
-    "englishName": "Broxigar's Last Stand",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CATA_526.png"
+    "collectible": true
   }
 }

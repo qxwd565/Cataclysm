@@ -1,0 +1,110 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CATA_530",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2026-03-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2026-03-18": {
+        "nativeSetId": 1980,
+        "set": "CATACLYSM",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS37-018_S.tif:0fcb8bfc518d49fd80455aae1cc4f66c",
+        "flavor": "새로 생긴 고급 힙스터 식당들은 정말 눈감아 줄 수가 없어요.",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 122849
+          },
+          {
+            "id": 3,
+            "name": "효과 수치 2",
+            "value": 122850
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 7
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 4309,
+            "name": "예고",
+            "value": 1
+          },
+          {
+            "id": 4538,
+            "name": "게임 태그 4538",
+            "value": 1
+          },
+          {
+            "id": 4632,
+            "name": "게임 태그 4632",
+            "value": 2
+          }
+        ],
+        "nativeRawText": "{0}|1(을,를) <b>예고</b>합니다. 내 영웅이 이번 턴에 <b>생명력 흡수</b>를 얻습니다.",
+        "nativeTextBuilder": 43,
+        "englishName": "Fel Infusion",
+        "root": true,
+        "relatedIds": [
+          126995,
+          124116,
+          124108,
+          125413
+        ],
+        "art": "art/CATA_530.png"
+      }
+    }
+  }
+}
