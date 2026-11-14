@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Ascendance",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_567",
     "dbfId": 122963,
     "name": "승천",
@@ -60,27 +57,9 @@
     ],
     "nativeRawText": "모든 아군 하수인을 비용이 (1) 높은 하수인으로 변신시킵니다. 이 하수인들은 죽을 때 원래의 하수인을 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Ascendance",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CATA_567.png"
   }
 }

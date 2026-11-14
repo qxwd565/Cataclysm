@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Confront the Tol'vir",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_560",
     "dbfId": 122939,
     "name": "톨비르 대적",
@@ -60,49 +57,9 @@
     ],
     "nativeRawText": "이번 게임에서 내가 낸 비용이 1인 하수인들을 각각 소환합니다.",
     "nativeTextBuilder": 0,
-    "history": [
-      {
-        "before": "2026-06-12",
-        "changes": {
-          "cost": 3
-        }
-      },
-      {
-        "from": "2026-06-12",
-        "before": "2026-07-22",
-        "changes": {
-          "cost": 4
-        }
-      },
-      {
-        "from": "2026-07-22",
-        "before": "2026-08-19",
-        "changes": {
-          "cost": 5
-        }
-      }
-    ],
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Confront the Tol'vir",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CATA_560.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Nespirah, Unshackled",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_527t2",
     "dbfId": 122845,
     "name": "속박 풀린 네스피라",
@@ -72,27 +69,9 @@
     ],
     "nativeRawText": "내가 지옥 주문을 시전한 후에, <b>거수</b>가 아닌 무작위 나가를 얻습니다. 그 나가의 비용이 (1)이 됩니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Nespirah, Unshackled",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/CATA_527t2.png"
   }
 }

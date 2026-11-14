@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Genn, Worgen King",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_615t",
     "dbfId": 123397,
     "name": "늑대인간 왕 겐",
-    "text": "<b>전투의 함성:</b> 내 기본 영웅 능력이 강화됩니다.\n그 영웅 능력의 비용이 (1)이 됩니다.",
+    "text": "<b>전투의 함성:</b> 내 기본 영웅 능력이 강화됩니다.<br></br>그 영웅 능력의 비용이 (1)이 됩니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -75,27 +72,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 기본 영웅 능력이 강화됩니다.\n그 영웅 능력의 비용이 (1)|1(이,가) 됩니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Genn, Worgen King",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/CATA_615t.png"
   }
 }

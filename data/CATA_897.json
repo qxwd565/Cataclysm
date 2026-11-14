@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Gemstone Hoarder",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_897",
     "dbfId": 123660,
     "name": "원석 비축가",
-    "text": "<b>전투의 함성:</b> 내 손에 있는\n카드를 선택하여 버립니다.\n<b>죽음의 메아리:</b> 그 카드를\n다시 얻습니다. 그 카드의\n비용이 (1) 감소합니다.",
+    "text": "<b>전투의 함성:</b> 내 손에 있는<br></br>카드를 선택하여 버립니다.<br></br><b>죽음의 메아리:</b> 그 카드를<br></br>다시 얻습니다. 그 카드의<br></br>비용이 (1) 감소합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -80,27 +77,9 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에 있는\n카드를 선택하여 버립니다.\n<b>죽음의 메아리:</b> 그 카드를\n다시 얻습니다. 그 카드의\n비용이 (1) 감소합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Gemstone Hoarder",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CATA_897.png"
   }
 }

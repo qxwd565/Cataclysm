@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Mystic Runesaber",
-  "card": {
+  "2026-05-06": {
     "id": "MEND_506",
     "dbfId": 123515,
     "name": "신비한 룬호랑이",
-    "text": "<b>모면</b>, <b>전투의 함성:</b>\n이번 게임에서\n내 지맥들의 효과가 1 증가합니다.",
+    "text": "<b>모면</b>, <b>전투의 함성:</b><br></br>이번 게임에서<br></br>내 지맥들의 효과가 1 증가합니다.",
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
@@ -92,31 +89,13 @@
     ],
     "nativeRawText": "<b>모면</b>, <b>전투의 함성:</b>\n이번 게임에서\n내 지맥들의 효과가 1 증가합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-05-06",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    123508,
-    123495,
-    123504
-  ],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Mystic Runesaber",
+    "root": true,
+    "relatedIds": [
+      123508,
+      123495,
+      123504
+    ],
+    "art": "art/MEND_506.png"
   }
 }

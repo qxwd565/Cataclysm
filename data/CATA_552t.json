@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Ebonscale Scout",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_552t",
     "dbfId": 122870,
     "name": "칠흑비늘 정찰병",
@@ -72,27 +69,9 @@
     ],
     "nativeRawText": "<b>전투의_함성:</b> 이 하수인의 공격력만큼 피해를 줍니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Ebonscale Scout",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/CATA_552t.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Black Blood's Body",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_300t2",
     "dbfId": 128030,
     "name": "검은 피의 몸뚱이",
@@ -75,27 +72,9 @@
     ],
     "nativeRawText": "내 턴이 끝날 때, 피해를 받은 무작위 아군 캐릭터의 생명력을 #3 회복시킵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Black Blood's Body",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/CATA_300t2.png"
   }
 }

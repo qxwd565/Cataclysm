@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Stormbinder",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_724",
     "dbfId": 122642,
     "name": "폭풍술사",
@@ -75,27 +72,9 @@
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> <b>과부하</b>된 내 마나 수정이 모두 잠금 해제됩니다. <b>과부하:</b> (3)",
     "nativeTextBuilder": 7,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Stormbinder",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CATA_724.png"
   }
 }

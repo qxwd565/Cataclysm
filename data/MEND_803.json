@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Emboldening Blade",
-  "card": {
+  "2026-05-06": {
     "id": "MEND_803",
     "dbfId": 123623,
     "name": "용기를 불어넣는 칼날",
@@ -85,29 +82,11 @@
     ],
     "nativeRawText": "<b>전투의 함성</b>:& 이번 게임 동안 내 은빛 성기사단 신병들에게 +1/+1을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-05-06",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    1652
-  ],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Emboldening Blade",
+    "root": true,
+    "relatedIds": [
+      1652
+    ],
+    "art": "art/MEND_803.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Migrating Elekk",
-  "card": {
+  "2026-05-06": {
     "id": "MEND_303",
     "dbfId": 123491,
     "name": "이주하는 엘레크",
@@ -92,31 +89,13 @@
     ],
     "nativeRawText": "<b>도발, 전투의 함성:</b> 미래의 내 동료 야수들을 비용이 (1) 더 높은 무작위 야수로 교체합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-05-06",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    100,
-    226,
-    959
-  ],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Migrating Elekk",
+    "root": true,
+    "relatedIds": [
+      100,
+      226,
+      959
+    ],
+    "art": "art/MEND_303.png"
   }
 }

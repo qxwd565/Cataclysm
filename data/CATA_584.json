@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Erupting Volcano",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_584",
     "dbfId": 123163,
     "name": "분출하는 화산",
@@ -60,27 +57,9 @@
     ],
     "nativeRawText": "적들에게 3의 피해를 무작위로 나누어 줍니다. 내가 이번 턴에 화염 주문을 냈으면 3 더 줍니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Erupting Volcano",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CATA_584.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Iridescent Flitterwing",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_133",
     "dbfId": 122970,
     "name": "무지갯빛 팔랑날개",
@@ -92,27 +89,9 @@
     ],
     "nativeRawText": "<b>모면</b>, 내 턴이 끝날 때,& 내 다른 하수인들에게 +1/+1을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Iridescent Flitterwing",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CATA_133.png"
   }
 }

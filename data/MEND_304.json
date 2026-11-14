@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Talya Earthstrider",
-  "card": {
+  "2026-05-06": {
     "id": "MEND_304",
     "dbfId": 123492,
     "name": "탈랴 어스스트라이더",
@@ -85,27 +82,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 동료 야수를 소환하는 내 카드들이 이번 게임 동안 1마리 더 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-05-06",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Talya Earthstrider",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/MEND_304.png"
   }
 }

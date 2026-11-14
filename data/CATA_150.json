@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Ragnaros, the Great Fire",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_150",
     "dbfId": 124110,
     "name": "위대한 불 라그나로스",
@@ -132,30 +129,12 @@
     ],
     "nativeRawText": "<b>거수 +2</b>, 내 턴이 끝날 때 내 하수인들의 <b>죽음의 메아리들</b>을 발동합니다.",
     "nativeTextBuilder": 26,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    124113,
-    125412
-  ],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Ragnaros, the Great Fire",
+    "root": true,
+    "relatedIds": [
+      124113,
+      125412
+    ],
+    "art": "art/CATA_150.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Azshara, Ocean Lord",
-  "card": {
+  "2026-03-18": {
     "id": "CATA_151",
     "dbfId": 124116,
     "name": "바다의 군주 아즈샤라",
@@ -137,30 +134,12 @@
     ],
     "nativeRawText": "<b>거수 +2</b>, 내 영웅이 <b>질풍</b> 능력을 얻습니다.",
     "nativeTextBuilder": 26,
-    "releasedAt": "2026-03-18",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    124108,
-    125413
-  ],
-  "expansion": {
-    "id": 1980,
-    "slug": "cataclysm",
-    "name": "대격변",
-    "type": "",
-    "englishName": "Cataclysm"
-  },
-  "setOrder": 2,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Azshara, Ocean Lord",
+    "root": true,
+    "relatedIds": [
+      124108,
+      125413
+    ],
+    "art": "art/CATA_151.png"
   }
 }
